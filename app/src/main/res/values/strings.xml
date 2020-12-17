@@ -1,0 +1,226 @@
+<resources>
+    <string name="app_name">Sikke Mobil Cüzdan</string>
+    <string name="login">Giriş Yap</string>
+    <string name="create_account">Hesap Oluştur</string>
+    <string name="read_wallet_qr_code">Cüzdan İle Giriş</string>
+    <string name="create_wallet_hidden">Gizli Cüzdan Oluştur</string>
+    <string name="create_wallet">Cüzdan Oluştur</string>
+    <string name="email">E-posta Adresiniz</string>
+    <string name="password">Şifreniz</string>
+    <string name="forgotPasword">Şifremi Unuttum</string>
+    <string name="goBack">Geri Dön</string>
+    <string name="qrCode">QR Kod</string>
+    <string name="read">Oku</string>
+    <string name="reset">Sıfırla</string>
+    <string name="myAccount">Hesap Bilgilerim</string>
+    <string name="qr">QR</string>
+    <string name="reload">Yenile</string>
+    <string name="request">İste</string>
+    <string name="requestCap">İSTE</string>
+    <string name="send">Gönder</string>
+    <string name="sendCap">GÖNDER</string>
+    <string name="cancel">İptal</string>
+    <string name="cancelCap">İPTAL</string>
+    <string name="settings">Ayarlar</string>
+    <string name="share">Paylaş</string>
+    <string name="amount">Miktar</string>
+    <string name="fee">İşlem Ücreti</string>
+    <string name="total">Toplam</string>
+    <string name="description"> "Açıklama" </string>
+    <string name="wallet_number">Kese Numaranız:</string>
+    <string name="date">Tarih</string>
+    <string name="wrongPassword">Lütfen Şifrenizi ve E-Postanızı Kontrol Edip Tekrar Giriş Yapınız</string>
+    <string name="exit_confirmation">Uygulamadan Çıkmak İstediğinize Emin misiniz?</string>
+    <string name="change_language">Dil ayarlarınız değiştirildi</string>
+    <string name="warning">Uyarı</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="server_is_not_responding_please_try_again">Sikke Ağında bakım yapılıyor! Lütfen daha sonra tekrar deneyiniz...</string>
+    <string name="login_error">Giriş Hatası</string>
+    <string name="reset_password_error">Şifre Yenileme Hatası</string>
+    <string name="create_account_error">Hesap Oluşturma Hatası</string>
+    <string name="enter_valid_email">Lütfen Geçerli E-Posta Giriniz</string>
+    <string name="enter_valid_password">Lütfen Geçerli Şifre Giriniz</string>
+    <string name="public_number">Public Key:</string>
+    <string name="private_number">Private Key</string>
+    <string name="backup">Yedekle</string>
+    <string name="myAccountInformation">Hesabım</string>
+    <string name="changePassword">Şifre Değiştir</string>
+    <string name="accountSecurity">Hesap Güvenliği</string>
+    <string name="language">Dil</string>
+    <string name="title_activity_account_settings">Hesap Ayarları</string>
+    <string name="pref_title_display_name">Adınız</string>
+    <string name="pref_title_display_surname">Soyadınız</string>
+    <string name="pref_title_display_nickname">Takma Adınız</string>
+    <string name="pref_title_country">Yaşadığınız Ülke</string>
+    <string name="pref_title_mobile_number">Cep Telefonu</string>
+    <string name="pref_title_mobile_code">Ülke Kodu</string>
+    <string name="pref_title_timezone">Zaman Diliminiz</string>
+    <string name="pref_title_password">Şifre Değiştir</string>
+    <string name="pref_title_tcno">Kimlik/Pasaport No</string>
+    <string name="pref_title_secret_question">Güvenlik Sorunuz</string>
+    <string name="pref_title_secret_answer">Güvenlik Cevabınız</string>
+    <string name="send_wallet_number">Gönderilecek Kese Numarası</string>
+    <string name="input_pincode">Pin Kodunuzu Giriniz</string>
+    <string name="confirm_pincode">Tekrar Pin Giriniz</string>
+    <string name="create_pincode">Pin Kodunu Oluşturunuz</string>
+    <string name="no_wallet">Herhangi Bir Kese Bulunmamaktadır!</string>
+    <string name="pincode_warning">{faw-exclamation-triangle} Hesap güvenliğiniz için verilerinizi şifrelemede kullanılacak bir pin kodu oluşturmanız gerekmektedir.</string>
+    <string name="pincode_warning_list_1">-Pin kodunuzu unutmayacağınız bir şekilde internet erişimi olmayan bir bilgisayara ya da kağıda kaydetmeniz önemlidir.</string>
+    <string name="pincode_warning_list_2">-Pin kodu kaybetmeniz durumunda hesaba erişiminiz kısıtlanacaktır.!</string>
+    <string name="pvt_warning_list">LÜTFEN DİKKAT</string>
+    <string name="pvt_warning_list_1">{faw-lightbulb} Sikke Web ve Mobil Cüzdanlarında Private Keyleriniz şifreniz ile şifrelenip saklanmaktadır! Bu nedenle şifrenizi unutursanız veya değiştirseniz cüzdanlarınızı tekrar kullanabilmek için private keylerini tekrar yüklemeniz gerekmektedir.</string>
+    <string name="pvt_warning_again_list_1">{faw-exclamation-triangle} Sikke Web ve Mobil Cüzdanlarında Private Keyleriniz şifreniz ile şifrelenip saklanmaktadır! Bu nedenle şifrenizi unutursanız veya değiştirseniz cüzdanlarınızı tekrar kullanabilmek için private keylerini tekrar yüklemeniz gerekmektedir.</string>
+    <string name="pvt_warning_list_2">{faw-lightbulb} Private Keylerini saklamak sizin sorumluluğunuzda olup, şifrenizi veya Private Keylerinizi kaybettiğinizde keseleri kullanabilmek mümkün değildir. Bu nedenle Private Keylerinizi düzenli olarak yedeklemeyi unutmayınız!…</string>
+    <string name="pvt_warning_list_3">{faw-lightbulb} Keselerinizi yedek almak ve yedekten tekrar yüklemek  için MENU > Kese İçeri Aktar veya MENU > Kese Dışarı Aktar linklerini kullanabilirsiniz.</string>
+    <string name="pvt_show_qr">QR KOD GÖSTER</string>
+    <string name="pvt_show_txt">KEYLERİ GÖSTER</string>
+    <string name="pvt_save_wallet">CÜZDANI YEDEKLE</string>
+    <string name="pvt_go_wallet">CÜZDANA GİT</string>
+    <string name="is_hidden">Bu işlemi ağda gizle</string>
+    <string name="hidden_desc">Bu İşlem ağda gizli</string>
+    <string name="wallet_general_setting">Ayarlar</string>
+    <string name="wallet_security_setting">Güvenlik</string>
+    <string name="wallet_developer">Geliştiriciler</string>
+    <string name="wallet_name">Kese Adı</string>
+    <string name="wallet_type">Kese Tipi</string>
+    <string name="wallet_standard">Standart Kese</string>
+    <string name="wallet_only_in">Kumbara Kese</string>
+    <string name="wallet_only_out">Sebil Kese</string>
+    <string name="wallet_partner">Ortak Kese</string>
+    <string name="wallet_smart">Akıllı Kese</string>
+    <string name="wallet_smart_contract_token">Akıllı Sözleşme Token</string>
+    <string name="wallet_create_date">Oluşturulma Tarihi</string>
+    <string name="save">Kaydet</string>
+    <string name="wallet_situation">Kese Durumu</string>
+    <string name="wallet_notifications">Bildirimler</string>
+    <string name="wallet_hourly_limit">Saatlık Gönderim Limiti</string>
+    <string name="wallet_daily_limit">Günlük Gönderim Limiti</string>
+    <string name="wallet_one_time_limit">İşlem başına en fazla gönderim miktarı</string>
+    <string name="open_usage">Kullanıma Açık</string>
+    <string name="cloase_usage">Kullanıma Kapalı</string>
+    <string name="notifications_closed">Bildirimler Kapalı</string>
+    <string name="notifications_opened">Bildirimler Açık</string>
+    <string name="callback_url">Callback URL</string>
+    <string name="wallet_saved">Kese bilgileriniz güncellendi…</string>
+    <string name="user_saved">Kullanıcı bilgileriniz güncellendi…</string>
+    <string name="wallet_name_hint">Beyaz Kafe veya Adınız Soyadınız Gibi</string>
+
+
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="request_sikke">Ödeme İste</string>
+    <string name="send_sikke">Ödeme Gönder</string>
+    <string name="wallet_preferences">Kese Ayarları</string>
+    <string name="nav_home">Keselerim</string>
+    <string name="nav_create_wallet">Kese Oluştur</string>
+    <string name="nav_import_wallet">Kese İçeri Aktar</string>
+    <string name="nav_export_wallet">Kese Dışarı Aktar</string>
+    <string name="nav_contacts">Adres Defteri</string>
+    <string name="nav_settings">Ayarlar</string>
+    <string name="nav_about_us">Hakkımızda</string>
+    <string name="nav_title">Hesap Ayarları</string>
+    <string name="nav_title_other">Diğer</string>
+    <string name="nav_help">Yardım</string>
+    <string name="nav_exit">Çıkış</string>
+    <string name="sikke_url">sikke.com.tr</string>
+    <string name="parifix_url">parifix.com</string>
+
+
+    //DropDownTitle
+    <string name="spinner_country">Ülke Seçiniz</string>
+    <string name="spinner_phone_country">Ülke Seçiniz</string>
+    <string name="spinner_time_zone">Zaman Dilimi Seçi</string>
+
+
+    <!-- Toolbar titles when navigation menu country_item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Keselerim</item>
+        <item>Kese Oluştur</item>
+        <item>Kese İçeri Aktar</item>
+        <item>Adres Defterim</item>
+        <item>Ayarlar</item>
+    </string-array>
+
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+    <string name="backup_confirm">backup_confirm</string>
+
+
+    <!-- Strings related to Settings -->
+
+    <string name="pref_default_display_name">Adınız</string>
+    <string name="pref_default_display_surname">Soyadınız</string>
+    <string name="pref_phone_number">Telefon Numarası</string>
+    <string name="pref_language">Dil Seçenekleri</string>
+    <string name="pref_old_password">Eski Şifreniz</string>
+    <string name="pref_password">Yeni Şifreniz</string>
+    <string name="pref_confirm_password">Yeni Şifreniz (Tekrar)</string>
+    <string name="pref_security_title">Güvenlik Sorusu</string>
+    <string name="pref_security_question">Güvenlik Sorunuz</string>
+    <string name="pref_security_answer">Güvenlik Sorunuzun Cevabı</string>
+    <string name="pref_tc"> T.C. Kimlik  No veya Pasaport Numarası</string>
+    <string name="pref_indetity_title"> Kimlik Bilgileri </string>
+    <string-array name="pref_language_list_titles">
+        <item>Türkçe</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="pref_language_list_values">
+        <item>tr</item>
+        <item>en</item>
+    </string-array>
+
+
+    <!-- Strings related to Toast Messages -->
+    <string name="wallet_info">Kese Bilgileri</string>
+    <string name="wallet_deleted">Kese Kaldırıldı</string>
+    <string name="share_wallet">Cüzdan Numarası Bilgilerini Paylaş</string>
+    <string name="transactions_updated">İşlemler Güncellendi</string>
+    <string name="congratulations_wallet">Tebikler! Cüzdan Oluşturuldu.</string>
+    <string name="congratulations_backup">TEBRİKLER! Yedekleme Dosyanız Oluşturuldu.</string>
+    <string name="copied">Kese No Kopyalandı</string>
+    <string name="share_private">Private Key Bilgilerini Paylaş</string>
+    <string name="no_wallet_warning">Şuan cüzdanınız bulunmamaktadır oluşturmak için aşağıdaki butona tıklayın</string>
+    <string name="server_error">Server Cevap Vermiyor, Lütfen Çıkış Yapıp Tekrar Deneyiniz.</string>
+    <string name="skk_request">SKK İsteniyor</string>
+    <string name="share_to_request">SKK istemek için Paylaş</string>
+    <string name="please_wait">Lütfen Bekleyin…</string>
+    <string name="sending_process">Gönderme İşlemi Tamamlanıyor</string>
+    <string name="congratulations_sent">Tebrikler Gönderildi</string>
+    <string name="congratulations">Tebrikler!</string>
+    <string name="your_payment">Ödemeniz Başarı ile gönderildi. İşlem No: </string>
+    <string name="private_key_error">Private Key Hatası</string>
+    <string name="no_private_key_error">Bu Cüzdan İçin Private Key Yüklenmeniz Gerekmektedir. Lütfen Private Key Yükleyin</string>
+    <string name="my_wallet_info">Aşağıda Sikke hesabınıza bağlı cüzdanlarınızı  görebilirsiniz…</string>
+
+
+    <!-- Strings related to Sweet Alert Dialog Box -->
+    <string name="group_id">İşlem Grubu:</string>
+    <string name="seq">İşlem Numarası:</string>
+    <string name="from">Kimden:</string>
+    <string name="to">Kime:</string>
+    <string name="total_amount">Tutar:</string>
+    <string name="desc">Açıklama:</string>
+    <string name="action_time">İşlem Zamanı:</string>
+    <string name="complete_time">Onay Zamanı:</string>
+    <string name="hash">Hash:</string>
+    <string name="prev_hash">Önceki Hash:</string>
+    <string name="tx_details">İşlem Detayları</string>
+    <string name="ask_confirmation">Keseyi Kaldırmak İçin Eminmisiniz?</string>
+    <string name="confirmation_detail">Kaldırdığınız Kesenin Private Key\'ine Sahipseniz Tekrar İçe Aktarabilirsiniz.</string>
+    <string name="deleted_wallet">Keseniz Kaldırıldı</string>
+
+
+    <!-- Strings related to Create Options Menu -->
+    <string name="wallet_import">Kese İçe Aktar</string>
+    <string name="wallet_export">Kese Dışa Aktar</string>
+    <string name="refresh_wallet">Yenile</string>
+
+    <!-- Strings related to Wallet Options Menu -->
+    <string name="copy_wallet">Kese No Kopyala</string>
+    <string name="send_wallet">Gönder</string>
+    <string name="tx_history">İşlem Geçmişi</string>
+    <string name="delete_wallet">Keseyi Kaldır</string>
+
+
+</resources>

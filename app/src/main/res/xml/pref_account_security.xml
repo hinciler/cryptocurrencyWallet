@@ -1,0 +1,53 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<EditTextPreference-->
+        <!--android:id="@+id/password"-->
+        <!--android:capitalize="words"-->
+        <!--android:inputType="textPassword"-->
+        <!--android:key="password"-->
+        <!--android:persistent="true"-->
+        <!--android:maxLines="1"-->
+        <!--android:selectAllOnFocus="true"-->
+        <!--android:singleLine="true"-->
+        <!--android:title="@string/pref_title_password" />-->
+
+    <EditTextPreference
+        android:id="@+id/security_question"
+        android:capitalize="words"
+        android:inputType="text"
+        android:key="security_question"
+        android:persistent="true"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_secret_question"/>
+
+    <EditTextPreference
+        android:id="@+id/security_answer"
+        android:capitalize="words"
+        android:inputType="textPassword"
+        android:key="security_answer"
+        android:persistent="true"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_secret_answer"/>
+
+
+    <!--&lt;!&ndash; NOTE: ListPreference's summary should be set to its value by the activity code. &ndash;&gt;-->
+    <!--<ListPreference-->
+        <!--android:defaultValue="180"-->
+        <!--android:entries="@array/pref_sync_frequency_titles"-->
+        <!--android:entryValues="@array/pref_sync_frequency_values"-->
+        <!--android:key="sync_frequency"-->
+        <!--android:negativeButtonText="@null"-->
+        <!--android:positiveButtonText="@null"-->
+        <!--android:title="@string/pref_title_sync_frequency" />-->
+
+    <!-- This preference simply launches an intent when selected. Use this UI sparingly, per
+         design guidelines. -->
+    <!--<Preference android:title="@string/pref_title_system_sync_settings">-->
+        <!--<intent android:action="android.settings.SYNC_SETTINGS" />-->
+    <!--</Preference>-->
+
+</PreferenceScreen>

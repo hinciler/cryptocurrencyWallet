@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff5500</color>
+    <color name="colorPrimaryDark">#E84D00</color>
+    <color name="colorAccent">#E84D00</color>
+    <color name="primary_dark_material_dark_1">#E84D00</color>
+    <color name="sikke_custom_color">#ff5500</color>
+    <color name="sikke_custom_dark_color">#E84D00</color>
+
+
+    <color name="customColorWhite">#ffffff</color>
+    <color name="customColorBlack">#000000</color>
+    <color name="customColorGrayLight">#ededed</color>
+    <color name="customColorGray">#dddddd</color>
+    <color name="customColorGrayDark">#ccc</color>
+    <color name="customColorGrayDark2x">#999</color>
+    <color name="customColorGrayDark3x">#6c6c6c</color>
+
+    <color name="buttonPressed">#9999</color>
+    <color name="buttonPressedDark">#FFFFFF</color>
+    <color name="buttonNotPressed">#FFFFFF</color>
+    <color name="buttonNotPressedDark">#808080</color>
+
+    <color name="borderColor">#000000</color>
+
+    <color name="second_grey">#dddddd</color>
+    <color name="card_white">#ffffffff</color>
+    <color name="card_shadow">#cccccc</color>
+
+
+    <color name="md_light_primary_text">#DE000000</color>
+    <color name="theme_accent">@color/colorAccent</color>
+    <color name="list_background_normal">#FCFCFC</color>
+
+</resources>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/my_wallet_relative_layout"
+    android:layout_width="match_parent"
+    android:background="@drawable/big_card"
+    android:padding="20dp"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/wallet_number_row"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:id="@+id/txt_my_wallet_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="5dp"
+            android:maxLines="2"
+            android:text="SKK134034032434"
+            android:textColor="@color/customColorGrayDark2x"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/textViewOptions"
+            android:gravity="center"
+            android:text="{faw-ellipsis-v}"
+            android:textColor="@color/sikke_custom_color"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_marginTop="-10dp"
+            android:textSize="10sp"/>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/wallet_number_row">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="3dp"
+
+            android:src="@drawable/dotted_seperator"/>
+
+    </RelativeLayout>
+
+
+
+    <RelativeLayout
+        android:id="@+id/skk_balance_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="10dp"
+        android:layout_below="@+id/wallet_number_row">
+
+        <TextView
+            android:id="@+id/my_wallet_currency"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/my_wallet_balance"
+            android:layout_toStartOf="@id/my_wallet_balance"
+            android:text="SKK"
+            android:textColor="#FF5500"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/my_wallet_balance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="00,10"
+            android:textColor="#444444"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

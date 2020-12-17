@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:background="@color/primary_dark_material_dark_1"
+    tools:ignore="MissingPrefix">
+
+    <ImageView
+        android:id="@+id/profile_image"
+        android:layout_width="104dp"
+        android:layout_height="104dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/logo" />
+
+    <RelativeLayout
+        android:id="@+id/pin_code_str"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/profile_image"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/profile_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="80dp"
+            android:gravity="center"
+            android:textAppearance="@style/TextAppearance.FontPath"
+            android:maxLines="3"
+            android:text="Pin Yeri"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+
+        <RelativeLayout
+            android:id="@+id/warning_pincode_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:background="@drawable/border_radius"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/warning_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="2dp"
+                android:gravity="left"
+                android:textAppearance="@style/TextAppearance.FontPath"
+                android:maxLines="3"
+                android:text="@string/pincode_warning"
+                android:textColor="@color/customColorBlack"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/warning_list_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/warning_list"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="2dp"
+                android:gravity="left"
+                android:textAppearance="@style/TextAppearance.FontPath"
+                android:maxLines="3"
+                android:text="@string/pincode_warning_list_1"
+                android:textColor="@color/customColorBlack"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/warning_list_2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/warning_list_1"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="2dp"
+                android:textAppearance="@style/TextAppearance.FontPath"
+                android:maxLines="2"
+                android:text="@string/pincode_warning_list_2"
+                android:textColor="@color/customColorBlack"
+                android:textSize="12sp" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+
+    <com.andrognito.pinlockview.IndicatorDots
+        android:id="@+id/indicator_dots"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/pin_lock_view_layout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"/>
+
+    <RelativeLayout
+        android:id="@+id/pin_lock_view_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp">
+
+        <com.andrognito.pinlockview.PinLockView
+            android:id="@+id/pin_lock_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            app:keypadButtonSize="72sp"
+            app:keypadShowDeleteButton="true"
+            app:keypadTextColor="@color/white"
+            app:keypadTextSize="18sp" />
+    </RelativeLayout>
+
+
+
+</RelativeLayout>

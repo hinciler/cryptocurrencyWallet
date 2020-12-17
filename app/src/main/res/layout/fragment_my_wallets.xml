@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/second_grey">
+
+    <RelativeLayout
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        android:background="@drawable/border_radius"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal">
+            <TextView
+                android:id="@+id/txt_my_wallet_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_toEndOf="@+id/txt_date"
+                android:layout_toLeftOf="@+id/txt_amount"
+                android:layout_toRightOf="@+id/txt_date"
+                android:layout_toStartOf="@+id/txt_amount"
+                android:text="@string/my_wallet_info"
+                android:textColor="#000000"
+                android:textSize="14sp" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/recyclerViewMyWallet"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerViewMyWalletList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical"
+            android:scrollbars="vertical">
+
+        </android.support.v7.widget.RecyclerView>
+
+        <Button
+            android:id="@+id/btn_crt_wallet_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:gravity="center"
+            android:visibility="gone"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:background="@color/sikke_custom_color"
+            android:text="@string/create_wallet"
+            android:textColor="@color/white"
+            android:textSize="16dp"
+            android:textStyle="bold"/>
+
+    </RelativeLayout>
+
+    <com.wang.avi.AVLoadingIndicatorView
+        android:id="@+id/avloadingIndicatorView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        app:indicatorColor="@color/sikke_custom_color"
+        app:indicatorName="BallPulseIndicator" />
+
+
+
+</RelativeLayout>

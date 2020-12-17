@@ -1,0 +1,2062 @@
+[	{
+		"id": "5b26ae78779ec31758d4d067",
+		"UlkeId": 212,
+		"IkiliKod": "TR",
+		"UcluKod": "TUR",
+		"UlkeAdi": "Türkiye",
+		"TelKodu": "90",
+		"SiraNo": 0,
+		"Status": 1
+	},
+	{
+		"id": "5b26ae5d779ec31758d4cf94",
+		"UlkeId": 1,
+		"IkiliKod": "AF",
+		"UcluKod": "AFG",
+		"UlkeAdi": "Afghanistan",
+		"TelKodu": "93",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5d779ec31758d4cf95",
+		"UlkeId": 2,
+		"IkiliKod": "AL",
+		"UcluKod": "ALB",
+		"UlkeAdi": "Albania",
+		"TelKodu": "355",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5d779ec31758d4cf96",
+		"UlkeId": 3,
+		"IkiliKod": "DZ",
+		"UcluKod": "DZA",
+		"UlkeAdi": "Algeria",
+		"TelKodu": "213",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5e779ec31758d4cf97",
+		"UlkeId": 4,
+		"IkiliKod": "AS",
+		"UcluKod": "ASM",
+		"UlkeAdi": "American Samoa",
+		"TelKodu": "684",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5e779ec31758d4cf98",
+		"UlkeId": 5,
+		"IkiliKod": "AD",
+		"UcluKod": "AND",
+		"UlkeAdi": "Andorra",
+		"TelKodu": "376",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5e779ec31758d4cf99",
+		"UlkeId": 6,
+		"IkiliKod": "AO",
+		"UcluKod": "AGO",
+		"UlkeAdi": "Angola",
+		"TelKodu": "244",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5e779ec31758d4cf9a",
+		"UlkeId": 7,
+		"IkiliKod": "AI",
+		"UcluKod": "AIA",
+		"UlkeAdi": "Anguilla",
+		"TelKodu": "264",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5e779ec31758d4cf9b",
+		"UlkeId": 8,
+		"IkiliKod": "AQ",
+		"UcluKod": "ATA",
+		"UlkeAdi": "Antarctica",
+		"TelKodu": "672",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5e779ec31758d4cf9c",
+		"UlkeId": 9,
+		"IkiliKod": "AG",
+		"UcluKod": "ATG",
+		"UlkeAdi": "Antigua and Barbuda",
+		"TelKodu": "268",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5e779ec31758d4cf9d",
+		"UlkeId": 10,
+		"IkiliKod": "AR",
+		"UcluKod": "ARG",
+		"UlkeAdi": "Argentina",
+		"TelKodu": "54",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5e779ec31758d4cf9e",
+		"UlkeId": 11,
+		"IkiliKod": "AM",
+		"UcluKod": "ARM",
+		"UlkeAdi": "Armenia",
+		"TelKodu": "374",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5e779ec31758d4cf9f",
+		"UlkeId": 12,
+		"IkiliKod": "AW",
+		"UcluKod": "ABW",
+		"UlkeAdi": "Aruba",
+		"TelKodu": "297",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5f779ec31758d4cfa0",
+		"UlkeId": 13,
+		"IkiliKod": "AU",
+		"UcluKod": "AUS",
+		"UlkeAdi": "Australia",
+		"TelKodu": "61",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5f779ec31758d4cfa1",
+		"UlkeId": 14,
+		"IkiliKod": "AT",
+		"UcluKod": "AUT",
+		"UlkeAdi": "Austria",
+		"TelKodu": "43",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5f779ec31758d4cfa2",
+		"UlkeId": 15,
+		"IkiliKod": "AZ",
+		"UcluKod": "AZE",
+		"UlkeAdi": "Azerbaijan",
+		"TelKodu": "994",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5f779ec31758d4cfa3",
+		"UlkeId": 16,
+		"IkiliKod": "BS",
+		"UcluKod": "BHS",
+		"UlkeAdi": "Bahamas",
+		"TelKodu": "242",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5f779ec31758d4cfa4",
+		"UlkeId": 17,
+		"IkiliKod": "BH",
+		"UcluKod": "BHR",
+		"UlkeAdi": "Bahrain",
+		"TelKodu": "973",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5f779ec31758d4cfa5",
+		"UlkeId": 18,
+		"IkiliKod": "BD",
+		"UcluKod": "BGD",
+		"UlkeAdi": "Bangladesh",
+		"TelKodu": "880",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5f779ec31758d4cfa6",
+		"UlkeId": 19,
+		"IkiliKod": "BB",
+		"UcluKod": "BRB",
+		"UlkeAdi": "Barbados",
+		"TelKodu": "246",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5f779ec31758d4cfa7",
+		"UlkeId": 20,
+		"IkiliKod": "BY",
+		"UcluKod": "BLR",
+		"UlkeAdi": "Belarus",
+		"TelKodu": "375",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5f779ec31758d4cfa8",
+		"UlkeId": 21,
+		"IkiliKod": "BE",
+		"UcluKod": "BEL",
+		"UlkeAdi": "Belgium",
+		"TelKodu": "32",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae5f779ec31758d4cfa9",
+		"UlkeId": 22,
+		"IkiliKod": "BZ",
+		"UcluKod": "BLZ",
+		"UlkeAdi": "Belize",
+		"TelKodu": "501",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae60779ec31758d4cfaa",
+		"UlkeId": 23,
+		"IkiliKod": "BJ",
+		"UcluKod": "BEN",
+		"UlkeAdi": "Benin",
+		"TelKodu": "229",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae60779ec31758d4cfab",
+		"UlkeId": 24,
+		"IkiliKod": "BM",
+		"UcluKod": "BMU",
+		"UlkeAdi": "Bermuda",
+		"TelKodu": "441",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae60779ec31758d4cfac",
+		"UlkeId": 25,
+		"IkiliKod": "BT",
+		"UcluKod": "BTN",
+		"UlkeAdi": "Bhutan",
+		"TelKodu": "975",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae60779ec31758d4cfad",
+		"UlkeId": 26,
+		"IkiliKod": "BO",
+		"UcluKod": "BOL",
+		"UlkeAdi": "Bolivia",
+		"TelKodu": "591",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae60779ec31758d4cfae",
+		"UlkeId": 27,
+		"IkiliKod": "BA",
+		"UcluKod": "BIH",
+		"UlkeAdi": "Bosnia and Herzegovina",
+		"TelKodu": "387",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae60779ec31758d4cfaf",
+		"UlkeId": 28,
+		"IkiliKod": "BW",
+		"UcluKod": "BWA",
+		"UlkeAdi": "Botswana",
+		"TelKodu": "267",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae60779ec31758d4cfb0",
+		"UlkeId": 29,
+		"IkiliKod": "BR",
+		"UcluKod": "BRA",
+		"UlkeAdi": "Brazil",
+		"TelKodu": "55",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae61779ec31758d4cfb1",
+		"UlkeId": 30,
+		"IkiliKod": "VG",
+		"UcluKod": "VGB",
+		"UlkeAdi": "British Virgin Islands",
+		"TelKodu": "284",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae61779ec31758d4cfb2",
+		"UlkeId": 31,
+		"IkiliKod": "BN",
+		"UcluKod": "BRN",
+		"UlkeAdi": "Brunei",
+		"TelKodu": "673",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae61779ec31758d4cfb3",
+		"UlkeId": 32,
+		"IkiliKod": "BG",
+		"UcluKod": "BGR",
+		"UlkeAdi": "Bulgaria",
+		"TelKodu": "359",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae61779ec31758d4cfb4",
+		"UlkeId": 33,
+		"IkiliKod": "BF",
+		"UcluKod": "BFA",
+		"UlkeAdi": "Burkina Faso",
+		"TelKodu": "226",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae61779ec31758d4cfb5",
+		"UlkeId": 34,
+		"IkiliKod": "BI",
+		"UcluKod": "BDI",
+		"UlkeAdi": "Burundi",
+		"TelKodu": "257",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae62779ec31758d4cfb6",
+		"UlkeId": 35,
+		"IkiliKod": "KH",
+		"UcluKod": "KHM",
+		"UlkeAdi": "Cambodia",
+		"TelKodu": "855",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae62779ec31758d4cfb7",
+		"UlkeId": 36,
+		"IkiliKod": "CM",
+		"UcluKod": "CMR",
+		"UlkeAdi": "Cameroon",
+		"TelKodu": "237",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae62779ec31758d4cfb8",
+		"UlkeId": 37,
+		"IkiliKod": "CA",
+		"UcluKod": "CAN",
+		"UlkeAdi": "Canada",
+		"TelKodu": "1",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae62779ec31758d4cfb9",
+		"UlkeId": 38,
+		"IkiliKod": "CV",
+		"UcluKod": "CPV",
+		"UlkeAdi": "Cape Verde",
+		"TelKodu": "238",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae62779ec31758d4cfba",
+		"UlkeId": 39,
+		"IkiliKod": "KY",
+		"UcluKod": "CYM",
+		"UlkeAdi": "Cayman Islands",
+		"TelKodu": "345",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae62779ec31758d4cfbb",
+		"UlkeId": 40,
+		"IkiliKod": "CF",
+		"UcluKod": "CAF",
+		"UlkeAdi": "Central African Republic",
+		"TelKodu": "236",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae62779ec31758d4cfbc",
+		"UlkeId": 41,
+		"IkiliKod": "TD",
+		"UcluKod": "TCD",
+		"UlkeAdi": "Chad",
+		"TelKodu": "235",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae63779ec31758d4cfbd",
+		"UlkeId": 42,
+		"IkiliKod": "CL",
+		"UcluKod": "CHL",
+		"UlkeAdi": "Chile",
+		"TelKodu": "56",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae63779ec31758d4cfbe",
+		"UlkeId": 43,
+		"IkiliKod": "CN",
+		"UcluKod": "CHN",
+		"UlkeAdi": "China",
+		"TelKodu": "86",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae63779ec31758d4cfbf",
+		"UlkeId": 44,
+		"IkiliKod": "CX",
+		"UcluKod": "CXR",
+		"UlkeAdi": "Christmas Island",
+		"TelKodu": "61",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae63779ec31758d4cfc0",
+		"UlkeId": 45,
+		"IkiliKod": "CC",
+		"UcluKod": "CCK",
+		"UlkeAdi": "Cocos [Keeling] Islands",
+		"TelKodu": "61",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae63779ec31758d4cfc1",
+		"UlkeId": 46,
+		"IkiliKod": "CO",
+		"UcluKod": "COL",
+		"UlkeAdi": "Colombia",
+		"TelKodu": "57",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae63779ec31758d4cfc2",
+		"UlkeId": 47,
+		"IkiliKod": "KM",
+		"UcluKod": "COM",
+		"UlkeAdi": "Comoros",
+		"TelKodu": "269",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae63779ec31758d4cfc3",
+		"UlkeId": 48,
+		"IkiliKod": "CD",
+		"UcluKod": "COD",
+		"UlkeAdi": "Congo [DRC]",
+		"TelKodu": "242",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae63779ec31758d4cfc4",
+		"UlkeId": 49,
+		"IkiliKod": "CG",
+		"UcluKod": "COG",
+		"UlkeAdi": "Congo [Republic]",
+		"TelKodu": "682",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae64779ec31758d4cfc5",
+		"UlkeId": 50,
+		"IkiliKod": "CK",
+		"UcluKod": "COK",
+		"UlkeAdi": "Cook Islands",
+		"TelKodu": "506",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae64779ec31758d4cfc6",
+		"UlkeId": 51,
+		"IkiliKod": "CR",
+		"UcluKod": "CRI",
+		"UlkeAdi": "Costa Rica",
+		"TelKodu": "385",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae64779ec31758d4cfc7",
+		"UlkeId": 52,
+		"IkiliKod": "HR",
+		"UcluKod": "HRV",
+		"UlkeAdi": "Croatia",
+		"TelKodu": "53",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae64779ec31758d4cfc8",
+		"UlkeId": 53,
+		"IkiliKod": "CU",
+		"UcluKod": "CUB",
+		"UlkeAdi": "Cuba",
+		"TelKodu": "599",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae64779ec31758d4cfc9",
+		"UlkeId": 54,
+		"IkiliKod": "CY",
+		"UcluKod": "CYP",
+		"UlkeAdi": "Cyprus",
+		"TelKodu": "357",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae64779ec31758d4cfca",
+		"UlkeId": 55,
+		"IkiliKod": "CZ",
+		"UcluKod": "CZE",
+		"UlkeAdi": "Czech Republic",
+		"TelKodu": "420",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae64779ec31758d4cfcb",
+		"UlkeId": 56,
+		"IkiliKod": "DK",
+		"UcluKod": "DNK",
+		"UlkeAdi": "Denmark",
+		"TelKodu": "45",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae64779ec31758d4cfcc",
+		"UlkeId": 57,
+		"IkiliKod": "DJ",
+		"UcluKod": "DJI",
+		"UlkeAdi": "Djibouti",
+		"TelKodu": "253",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae64779ec31758d4cfcd",
+		"UlkeId": 58,
+		"IkiliKod": "DM",
+		"UcluKod": "DMA",
+		"UlkeAdi": "Dominica",
+		"TelKodu": "767",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae64779ec31758d4cfce",
+		"UlkeId": 59,
+		"IkiliKod": "DO",
+		"UcluKod": "DOM",
+		"UlkeAdi": "Dominican Republic",
+		"TelKodu": "809",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae65779ec31758d4cfcf",
+		"UlkeId": 60,
+		"IkiliKod": "TL",
+		"UcluKod": "TLS",
+		"UlkeAdi": "East Timor",
+		"TelKodu": "56",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae65779ec31758d4cfd0",
+		"UlkeId": 61,
+		"IkiliKod": "EC",
+		"UcluKod": "ECU",
+		"UlkeAdi": "Ecuador",
+		"TelKodu": "593",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae65779ec31758d4cfd1",
+		"UlkeId": 62,
+		"IkiliKod": "EG",
+		"UcluKod": "EGY",
+		"UlkeAdi": "Egypt",
+		"TelKodu": "20",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae65779ec31758d4cfd2",
+		"UlkeId": 63,
+		"IkiliKod": "SV",
+		"UcluKod": "SLV",
+		"UlkeAdi": "El Salvador",
+		"TelKodu": "503",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae65779ec31758d4cfd3",
+		"UlkeId": 64,
+		"IkiliKod": "GQ",
+		"UcluKod": "GNQ",
+		"UlkeAdi": "Equatorial Guinea",
+		"TelKodu": "240",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae65779ec31758d4cfd4",
+		"UlkeId": 65,
+		"IkiliKod": "ER",
+		"UcluKod": "ERI",
+		"UlkeAdi": "Eritrea",
+		"TelKodu": "291",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae65779ec31758d4cfd5",
+		"UlkeId": 66,
+		"IkiliKod": "EE",
+		"UcluKod": "EST",
+		"UlkeAdi": "Estonia",
+		"TelKodu": "372",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae65779ec31758d4cfd6",
+		"UlkeId": 67,
+		"IkiliKod": "ET",
+		"UcluKod": "ETH",
+		"UlkeAdi": "Ethiopia",
+		"TelKodu": "251",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae66779ec31758d4cfd7",
+		"UlkeId": 68,
+		"IkiliKod": "FK",
+		"UcluKod": "FLK",
+		"UlkeAdi": "Falkland Islands",
+		"TelKodu": "500",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae66779ec31758d4cfd8",
+		"UlkeId": 69,
+		"IkiliKod": "FO",
+		"UcluKod": "FRO",
+		"UlkeAdi": "Faroe Islands",
+		"TelKodu": "298",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae66779ec31758d4cfd9",
+		"UlkeId": 70,
+		"IkiliKod": "FJ",
+		"UcluKod": "FJI",
+		"UlkeAdi": "Fiji",
+		"TelKodu": "679",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae66779ec31758d4cfda",
+		"UlkeId": 71,
+		"IkiliKod": "FI",
+		"UcluKod": "FIN",
+		"UlkeAdi": "Finland",
+		"TelKodu": "358",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae66779ec31758d4cfdb",
+		"UlkeId": 72,
+		"IkiliKod": "FR",
+		"UcluKod": "FRA",
+		"UlkeAdi": "France",
+		"TelKodu": "33",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae66779ec31758d4cfdc",
+		"UlkeId": 73,
+		"IkiliKod": "GF",
+		"UcluKod": "GUF",
+		"UlkeAdi": "French Guiana",
+		"TelKodu": "596",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae67779ec31758d4cfdd",
+		"UlkeId": 74,
+		"IkiliKod": "PF",
+		"UcluKod": "PYF",
+		"UlkeAdi": "French Polynesia",
+		"TelKodu": "594",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae67779ec31758d4cfde",
+		"UlkeId": 75,
+		"IkiliKod": "TF",
+		"UcluKod": "ATF",
+		"UlkeAdi": "French Southern Territories",
+		"TelKodu": "689",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae67779ec31758d4cfdf",
+		"UlkeId": 76,
+		"IkiliKod": "GA",
+		"UcluKod": "GAB",
+		"UlkeAdi": "Gabon",
+		"TelKodu": "241",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae67779ec31758d4cfe0",
+		"UlkeId": 77,
+		"IkiliKod": "GM",
+		"UcluKod": "GMB",
+		"UlkeAdi": "Gambia",
+		"TelKodu": "220",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae67779ec31758d4cfe1",
+		"UlkeId": 78,
+		"IkiliKod": "GE",
+		"UcluKod": "GEO",
+		"UlkeAdi": "Georgia",
+		"TelKodu": "995",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae67779ec31758d4cfe2",
+		"UlkeId": 79,
+		"IkiliKod": "DE",
+		"UcluKod": "DEU",
+		"UlkeAdi": "Germany",
+		"TelKodu": "49",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae67779ec31758d4cfe3",
+		"UlkeId": 80,
+		"IkiliKod": "GH",
+		"UcluKod": "GHA",
+		"UlkeAdi": "Ghana",
+		"TelKodu": "233",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae67779ec31758d4cfe4",
+		"UlkeId": 81,
+		"IkiliKod": "GI",
+		"UcluKod": "GIB",
+		"UlkeAdi": "Gibraltar",
+		"TelKodu": "350",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae67779ec31758d4cfe5",
+		"UlkeId": 82,
+		"IkiliKod": "GR",
+		"UcluKod": "GRC",
+		"UlkeAdi": "Greece",
+		"TelKodu": "30",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae67779ec31758d4cfe6",
+		"UlkeId": 83,
+		"IkiliKod": "GL",
+		"UcluKod": "GRL",
+		"UlkeAdi": "Greenland",
+		"TelKodu": "299",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae68779ec31758d4cfe7",
+		"UlkeId": 84,
+		"IkiliKod": "GD",
+		"UcluKod": "GRD",
+		"UlkeAdi": "Grenada",
+		"TelKodu": "473",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae68779ec31758d4cfe8",
+		"UlkeId": 85,
+		"IkiliKod": "GP",
+		"UcluKod": "GLP",
+		"UlkeAdi": "Guadeloupe",
+		"TelKodu": "590",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae68779ec31758d4cfe9",
+		"UlkeId": 86,
+		"IkiliKod": "GU",
+		"UcluKod": "GUM",
+		"UlkeAdi": "Guam",
+		"TelKodu": "671",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae68779ec31758d4cfea",
+		"UlkeId": 87,
+		"IkiliKod": "GT",
+		"UcluKod": "GTM",
+		"UlkeAdi": "Guatemala",
+		"TelKodu": "502",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae68779ec31758d4cfeb",
+		"UlkeId": 88,
+		"IkiliKod": "GN",
+		"UcluKod": "GIN",
+		"UlkeAdi": "Guinea",
+		"TelKodu": "594",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae68779ec31758d4cfec",
+		"UlkeId": 89,
+		"IkiliKod": "GW",
+		"UcluKod": "GNB",
+		"UlkeAdi": "Guinea-Bissau",
+		"TelKodu": "245",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae69779ec31758d4cfed",
+		"UlkeId": 90,
+		"IkiliKod": "GY",
+		"UcluKod": "GUY",
+		"UlkeAdi": "Guyana",
+		"TelKodu": "592",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae69779ec31758d4cfee",
+		"UlkeId": 91,
+		"IkiliKod": "HT",
+		"UcluKod": "HTI",
+		"UlkeAdi": "Haiti",
+		"TelKodu": "509",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae69779ec31758d4cfef",
+		"UlkeId": 92,
+		"IkiliKod": "HN",
+		"UcluKod": "HND",
+		"UlkeAdi": "Honduras",
+		"TelKodu": "504",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae69779ec31758d4cff0",
+		"UlkeId": 93,
+		"IkiliKod": "HK",
+		"UcluKod": "HKG",
+		"UlkeAdi": "Hong Kong",
+		"TelKodu": "852",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae69779ec31758d4cff1",
+		"UlkeId": 94,
+		"IkiliKod": "HU",
+		"UcluKod": "HUN",
+		"UlkeAdi": "Hungary",
+		"TelKodu": "36",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae69779ec31758d4cff2",
+		"UlkeId": 95,
+		"IkiliKod": "IS",
+		"UcluKod": "ISL",
+		"UlkeAdi": "Iceland",
+		"TelKodu": "354",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6a779ec31758d4cff3",
+		"UlkeId": 96,
+		"IkiliKod": "IN",
+		"UcluKod": "IND",
+		"UlkeAdi": "India",
+		"TelKodu": "91",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6a779ec31758d4cff4",
+		"UlkeId": 97,
+		"IkiliKod": "ID",
+		"UcluKod": "IDN",
+		"UlkeAdi": "Indonesia",
+		"TelKodu": "62",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6a779ec31758d4cff5",
+		"UlkeId": 98,
+		"IkiliKod": "IR",
+		"UcluKod": "IRN",
+		"UlkeAdi": "Iran",
+		"TelKodu": "98",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6a779ec31758d4cff6",
+		"UlkeId": 99,
+		"IkiliKod": "IQ",
+		"UcluKod": "IRQ",
+		"UlkeAdi": "Iraq",
+		"TelKodu": "964",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6a779ec31758d4cff7",
+		"UlkeId": 100,
+		"IkiliKod": "IE",
+		"UcluKod": "IRL",
+		"UlkeAdi": "Ireland",
+		"TelKodu": "353",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6a779ec31758d4cff8",
+		"UlkeId": 101,
+		"IkiliKod": "IM",
+		"UcluKod": "IMN",
+		"UlkeAdi": "Isle of Man",
+		"TelKodu": "44",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6a779ec31758d4cff9",
+		"UlkeId": 102,
+		"IkiliKod": "IL",
+		"UcluKod": "ISR",
+		"UlkeAdi": "Israel",
+		"TelKodu": "972",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6b779ec31758d4cffa",
+		"UlkeId": 103,
+		"IkiliKod": "IT",
+		"UcluKod": "ITA",
+		"UlkeAdi": "Italy",
+		"TelKodu": "39",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6b779ec31758d4cffb",
+		"UlkeId": 104,
+		"IkiliKod": "CI",
+		"UcluKod": "CIV",
+		"UlkeAdi": "Ivory Coast",
+		"TelKodu": "225",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6b779ec31758d4cffc",
+		"UlkeId": 105,
+		"IkiliKod": "JM",
+		"UcluKod": "JAM",
+		"UlkeAdi": "Jamaica",
+		"TelKodu": "876",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6b779ec31758d4cffd",
+		"UlkeId": 106,
+		"IkiliKod": "JP",
+		"UcluKod": "JPN",
+		"UlkeAdi": "Japan",
+		"TelKodu": "81",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6b779ec31758d4cffe",
+		"UlkeId": 107,
+		"IkiliKod": "JO",
+		"UcluKod": "JOR",
+		"UlkeAdi": "Jordan",
+		"TelKodu": "962",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6b779ec31758d4cfff",
+		"UlkeId": 108,
+		"IkiliKod": "KZ",
+		"UcluKod": "KAZ",
+		"UlkeAdi": "Kazakhstan",
+		"TelKodu": "7",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6b779ec31758d4d000",
+		"UlkeId": 109,
+		"IkiliKod": "KE",
+		"UcluKod": "KEN",
+		"UlkeAdi": "Kenya",
+		"TelKodu": "254",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6c779ec31758d4d001",
+		"UlkeId": 110,
+		"IkiliKod": "KI",
+		"UcluKod": "KIR",
+		"UlkeAdi": "Kiribati",
+		"TelKodu": "686",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6c779ec31758d4d002",
+		"UlkeId": 111,
+		"IkiliKod": "XK",
+		"UcluKod": "XKX",
+		"UlkeAdi": "Kosovo",
+		"TelKodu": "381",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6c779ec31758d4d003",
+		"UlkeId": 112,
+		"IkiliKod": "KW",
+		"UcluKod": "KWT",
+		"UlkeAdi": "Kuwait",
+		"TelKodu": "965",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6c779ec31758d4d004",
+		"UlkeId": 113,
+		"IkiliKod": "KG",
+		"UcluKod": "KGZ",
+		"UlkeAdi": "Kyrgyzstan",
+		"TelKodu": "996",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6c779ec31758d4d005",
+		"UlkeId": 114,
+		"IkiliKod": "LA",
+		"UcluKod": "LAO",
+		"UlkeAdi": "Laos",
+		"TelKodu": "856",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6c779ec31758d4d006",
+		"UlkeId": 115,
+		"IkiliKod": "LV",
+		"UcluKod": "LVA",
+		"UlkeAdi": "Latvia",
+		"TelKodu": "371",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6c779ec31758d4d007",
+		"UlkeId": 116,
+		"IkiliKod": "LB",
+		"UcluKod": "LBN",
+		"UlkeAdi": "Lebanon",
+		"TelKodu": "961",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6c779ec31758d4d008",
+		"UlkeId": 117,
+		"IkiliKod": "LS",
+		"UcluKod": "LSO",
+		"UlkeAdi": "Lesotho",
+		"TelKodu": "266",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6c779ec31758d4d009",
+		"UlkeId": 118,
+		"IkiliKod": "LR",
+		"UcluKod": "LBR",
+		"UlkeAdi": "Liberia",
+		"TelKodu": "231",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6c779ec31758d4d00a",
+		"UlkeId": 119,
+		"IkiliKod": "LY",
+		"UcluKod": "LBY",
+		"UlkeAdi": "Libya",
+		"TelKodu": "218",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6d779ec31758d4d00b",
+		"UlkeId": 120,
+		"IkiliKod": "LI",
+		"UcluKod": "LIE",
+		"UlkeAdi": "Liechtenstein",
+		"TelKodu": "423",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6d779ec31758d4d00c",
+		"UlkeId": 121,
+		"IkiliKod": "LT",
+		"UcluKod": "LTU",
+		"UlkeAdi": "Lithuania",
+		"TelKodu": "370",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6d779ec31758d4d00d",
+		"UlkeId": 122,
+		"IkiliKod": "LU",
+		"UcluKod": "LUX",
+		"UlkeAdi": "Luxembourg",
+		"TelKodu": "352",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6d779ec31758d4d00e",
+		"UlkeId": 123,
+		"IkiliKod": "MO",
+		"UcluKod": "MAC",
+		"UlkeAdi": "Macau",
+		"TelKodu": "853",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6d779ec31758d4d00f",
+		"UlkeId": 124,
+		"IkiliKod": "MK",
+		"UcluKod": "MKD",
+		"UlkeAdi": "Macedonia",
+		"TelKodu": "389",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6d779ec31758d4d010",
+		"UlkeId": 125,
+		"IkiliKod": "MG",
+		"UcluKod": "MDG",
+		"UlkeAdi": "Madagascar",
+		"TelKodu": "261",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6d779ec31758d4d011",
+		"UlkeId": 126,
+		"IkiliKod": "MW",
+		"UcluKod": "MWI",
+		"UlkeAdi": "Malawi",
+		"TelKodu": "265",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6d779ec31758d4d012",
+		"UlkeId": 127,
+		"IkiliKod": "MY",
+		"UcluKod": "MYS",
+		"UlkeAdi": "Malaysia",
+		"TelKodu": "60",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6d779ec31758d4d013",
+		"UlkeId": 128,
+		"IkiliKod": "MV",
+		"UcluKod": "MDV",
+		"UlkeAdi": "Maldives",
+		"TelKodu": "960",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6e779ec31758d4d014",
+		"UlkeId": 129,
+		"IkiliKod": "ML",
+		"UcluKod": "MLI",
+		"UlkeAdi": "Mali",
+		"TelKodu": "223",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6e779ec31758d4d015",
+		"UlkeId": 130,
+		"IkiliKod": "MT",
+		"UcluKod": "MLT",
+		"UlkeAdi": "Malta",
+		"TelKodu": "356",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6e779ec31758d4d016",
+		"UlkeId": 131,
+		"IkiliKod": "MH",
+		"UcluKod": "MHL",
+		"UlkeAdi": "Marshall Islands",
+		"TelKodu": "692",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6e779ec31758d4d017",
+		"UlkeId": 132,
+		"IkiliKod": "MQ",
+		"UcluKod": "MTQ",
+		"UlkeAdi": "Martinique",
+		"TelKodu": "670",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6e779ec31758d4d018",
+		"UlkeId": 133,
+		"IkiliKod": "MR",
+		"UcluKod": "MRT",
+		"UlkeAdi": "Mauritania",
+		"TelKodu": "222",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6e779ec31758d4d019",
+		"UlkeId": 134,
+		"IkiliKod": "MU",
+		"UcluKod": "MUS",
+		"UlkeAdi": "Mauritius",
+		"TelKodu": "230",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6e779ec31758d4d01a",
+		"UlkeId": 135,
+		"IkiliKod": "YT",
+		"UcluKod": "MYT",
+		"UlkeAdi": "Mayotte",
+		"TelKodu": "269",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6e779ec31758d4d01b",
+		"UlkeId": 136,
+		"IkiliKod": "MX",
+		"UcluKod": "MEX",
+		"UlkeAdi": "Mexico",
+		"TelKodu": "52",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6e779ec31758d4d01c",
+		"UlkeId": 137,
+		"IkiliKod": "FM",
+		"UcluKod": "FSM",
+		"UlkeAdi": "Micronesia",
+		"TelKodu": "691",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6e779ec31758d4d01d",
+		"UlkeId": 138,
+		"IkiliKod": "MD",
+		"UcluKod": "MDA",
+		"UlkeAdi": "Moldova",
+		"TelKodu": "373",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6f779ec31758d4d01e",
+		"UlkeId": 139,
+		"IkiliKod": "MC",
+		"UcluKod": "MCO",
+		"UlkeAdi": "Monaco",
+		"TelKodu": "377",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6f779ec31758d4d01f",
+		"UlkeId": 140,
+		"IkiliKod": "MN",
+		"UcluKod": "MNG",
+		"UlkeAdi": "Mongolia",
+		"TelKodu": "976",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6f779ec31758d4d020",
+		"UlkeId": 141,
+		"IkiliKod": "MS",
+		"UcluKod": "MSR",
+		"UlkeAdi": "Montserrat",
+		"TelKodu": "664",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6f779ec31758d4d021",
+		"UlkeId": 142,
+		"IkiliKod": "MA",
+		"UcluKod": "MAR",
+		"UlkeAdi": "Morocco",
+		"TelKodu": "212",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6f779ec31758d4d022",
+		"UlkeId": 143,
+		"IkiliKod": "MZ",
+		"UcluKod": "MOZ",
+		"UlkeAdi": "Mozambique",
+		"TelKodu": "258",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6f779ec31758d4d023",
+		"UlkeId": 144,
+		"IkiliKod": "MM",
+		"UcluKod": "MMR",
+		"UlkeAdi": "Myanmar [Burma]",
+		"TelKodu": "95",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6f779ec31758d4d024",
+		"UlkeId": 145,
+		"IkiliKod": "NA",
+		"UcluKod": "NAM",
+		"UlkeAdi": "Namibia",
+		"TelKodu": "264",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6f779ec31758d4d025",
+		"UlkeId": 146,
+		"IkiliKod": "NR",
+		"UcluKod": "NRU",
+		"UlkeAdi": "Nauru",
+		"TelKodu": "674",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6f779ec31758d4d026",
+		"UlkeId": 147,
+		"IkiliKod": "NP",
+		"UcluKod": "NPL",
+		"UlkeAdi": "Nepal",
+		"TelKodu": "977",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae6f779ec31758d4d027",
+		"UlkeId": 148,
+		"IkiliKod": "NL",
+		"UcluKod": "NLD",
+		"UlkeAdi": "Netherlands",
+		"TelKodu": "31",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae70779ec31758d4d028",
+		"UlkeId": 149,
+		"IkiliKod": "AN",
+		"UcluKod": "ANT",
+		"UlkeAdi": "Netherlands Antilles",
+		"TelKodu": "599",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae70779ec31758d4d029",
+		"UlkeId": 150,
+		"IkiliKod": "NC",
+		"UcluKod": "NCL",
+		"UlkeAdi": "New Caledonia",
+		"TelKodu": "687",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae70779ec31758d4d02a",
+		"UlkeId": 151,
+		"IkiliKod": "NZ",
+		"UcluKod": "NZL",
+		"UlkeAdi": "New Zealand",
+		"TelKodu": "64",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae70779ec31758d4d02b",
+		"UlkeId": 152,
+		"IkiliKod": "NI",
+		"UcluKod": "NIC",
+		"UlkeAdi": "Nicaragua",
+		"TelKodu": "505",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae70779ec31758d4d02c",
+		"UlkeId": 153,
+		"IkiliKod": "NE",
+		"UcluKod": "NER",
+		"UlkeAdi": "Niger",
+		"TelKodu": "227",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae70779ec31758d4d02d",
+		"UlkeId": 154,
+		"IkiliKod": "NG",
+		"UcluKod": "NGA",
+		"UlkeAdi": "Nigeria",
+		"TelKodu": "234",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae70779ec31758d4d02e",
+		"UlkeId": 155,
+		"IkiliKod": "NU",
+		"UcluKod": "NIU",
+		"UlkeAdi": "Niue",
+		"TelKodu": "683",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae70779ec31758d4d02f",
+		"UlkeId": 156,
+		"IkiliKod": "NF",
+		"UcluKod": "NFK",
+		"UlkeAdi": "Norfolk Island",
+		"TelKodu": "672",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae70779ec31758d4d030",
+		"UlkeId": 157,
+		"IkiliKod": "KP",
+		"UcluKod": "PRK",
+		"UlkeAdi": "North Korea",
+		"TelKodu": "850",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae71779ec31758d4d031",
+		"UlkeId": 158,
+		"IkiliKod": "NO",
+		"UcluKod": "NOR",
+		"UlkeAdi": "Norway",
+		"TelKodu": "47",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae71779ec31758d4d032",
+		"UlkeId": 159,
+		"IkiliKod": "OM",
+		"UcluKod": "OMN",
+		"UlkeAdi": "Oman",
+		"TelKodu": "968",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae71779ec31758d4d033",
+		"UlkeId": 160,
+		"IkiliKod": "PK",
+		"UcluKod": "PAK",
+		"UlkeAdi": "Pakistan",
+		"TelKodu": "92",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae71779ec31758d4d034",
+		"UlkeId": 161,
+		"IkiliKod": "PW",
+		"UcluKod": "PLW",
+		"UlkeAdi": "Palau",
+		"TelKodu": "680",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae71779ec31758d4d035",
+		"UlkeId": 162,
+		"IkiliKod": "PA",
+		"UcluKod": "PAN",
+		"UlkeAdi": "Panama",
+		"TelKodu": "507",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae72779ec31758d4d036",
+		"UlkeId": 163,
+		"IkiliKod": "PG",
+		"UcluKod": "PNG",
+		"UlkeAdi": "Papua New Guinea",
+		"TelKodu": "675",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae72779ec31758d4d037",
+		"UlkeId": 164,
+		"IkiliKod": "PY",
+		"UcluKod": "PRY",
+		"UlkeAdi": "Paraguay",
+		"TelKodu": "595",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae72779ec31758d4d038",
+		"UlkeId": 165,
+		"IkiliKod": "PE",
+		"UcluKod": "PER",
+		"UlkeAdi": "Peru",
+		"TelKodu": "51",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae72779ec31758d4d039",
+		"UlkeId": 166,
+		"IkiliKod": "PH",
+		"UcluKod": "PHL",
+		"UlkeAdi": "Philippines",
+		"TelKodu": "63",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae72779ec31758d4d03a",
+		"UlkeId": 167,
+		"IkiliKod": "PN",
+		"UcluKod": "PCN",
+		"UlkeAdi": "Pitcairn Islands",
+		"TelKodu": "48",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae72779ec31758d4d03b",
+		"UlkeId": 168,
+		"IkiliKod": "PL",
+		"UcluKod": "POL",
+		"UlkeAdi": "Poland",
+		"TelKodu": "351",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae72779ec31758d4d03c",
+		"UlkeId": 169,
+		"IkiliKod": "PT",
+		"UcluKod": "PRT",
+		"UlkeAdi": "Portugal",
+		"TelKodu": "239",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae72779ec31758d4d03d",
+		"UlkeId": 170,
+		"IkiliKod": "PR",
+		"UcluKod": "PRI",
+		"UlkeAdi": "Puerto Rico",
+		"TelKodu": "787",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae73779ec31758d4d03e",
+		"UlkeId": 171,
+		"IkiliKod": "QA",
+		"UcluKod": "QAT",
+		"UlkeAdi": "Qatar",
+		"TelKodu": "974",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae73779ec31758d4d040",
+		"UlkeId": 173,
+		"IkiliKod": "RO",
+		"UcluKod": "ROU",
+		"UlkeAdi": "Romania",
+		"TelKodu": "40",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae73779ec31758d4d041",
+		"UlkeId": 174,
+		"IkiliKod": "RU",
+		"UcluKod": "RUS",
+		"UlkeAdi": "Russia",
+		"TelKodu": "7",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae73779ec31758d4d042",
+		"UlkeId": 175,
+		"IkiliKod": "RW",
+		"UcluKod": "RWA",
+		"UlkeAdi": "Rwanda",
+		"TelKodu": "250",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae73779ec31758d4d043",
+		"UlkeId": 176,
+		"IkiliKod": "SH",
+		"UcluKod": "SHN",
+		"UlkeAdi": "Saint Helena",
+		"TelKodu": "290",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae74779ec31758d4d044",
+		"UlkeId": 177,
+		"IkiliKod": "KN",
+		"UcluKod": "KNA",
+		"UlkeAdi": "Saint Kitts and Nevis",
+		"TelKodu": "869",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae74779ec31758d4d045",
+		"UlkeId": 178,
+		"IkiliKod": "LC",
+		"UcluKod": "LCA",
+		"UlkeAdi": "Saint Lucia",
+		"TelKodu": "758",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae74779ec31758d4d046",
+		"UlkeId": 179,
+		"IkiliKod": "PM",
+		"UcluKod": "SPM",
+		"UlkeAdi": "Saint Pierre and Miquelon",
+		"TelKodu": "508",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae74779ec31758d4d047",
+		"UlkeId": 180,
+		"IkiliKod": "VC",
+		"UcluKod": "VCT",
+		"UlkeAdi": "Saint Vincent and the Grenadines",
+		"TelKodu": "784",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae74779ec31758d4d048",
+		"UlkeId": 181,
+		"IkiliKod": "SM",
+		"UcluKod": "SMR",
+		"UlkeAdi": "San Marino",
+		"TelKodu": "378",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae75779ec31758d4d049",
+		"UlkeId": 182,
+		"IkiliKod": "ST",
+		"UcluKod": "STP",
+		"UlkeAdi": "Sao Tome and Principe",
+		"TelKodu": "239",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae75779ec31758d4d04a",
+		"UlkeId": 183,
+		"IkiliKod": "SA",
+		"UcluKod": "SAU",
+		"UlkeAdi": "Saudi Arabia",
+		"TelKodu": "966",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae75779ec31758d4d04b",
+		"UlkeId": 184,
+		"IkiliKod": "SN",
+		"UcluKod": "SEN",
+		"UlkeAdi": "Senegal",
+		"TelKodu": "221",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae75779ec31758d4d04c",
+		"UlkeId": 185,
+		"IkiliKod": "RS",
+		"UcluKod": "SRB",
+		"UlkeAdi": "Serbia",
+		"TelKodu": "381",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae75779ec31758d4d04d",
+		"UlkeId": 186,
+		"IkiliKod": "SC",
+		"UcluKod": "SYC",
+		"UlkeAdi": "Seychelles",
+		"TelKodu": "248",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae75779ec31758d4d04e",
+		"UlkeId": 187,
+		"IkiliKod": "SL",
+		"UcluKod": "SLE",
+		"UlkeAdi": "Sierra Leone",
+		"TelKodu": "232",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae75779ec31758d4d04f",
+		"UlkeId": 188,
+		"IkiliKod": "SG",
+		"UcluKod": "SGP",
+		"UlkeAdi": "Singapore",
+		"TelKodu": "65",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae75779ec31758d4d050",
+		"UlkeId": 189,
+		"IkiliKod": "SK",
+		"UcluKod": "SVK",
+		"UlkeAdi": "Slovakia",
+		"TelKodu": "421",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae76779ec31758d4d051",
+		"UlkeId": 190,
+		"IkiliKod": "SI",
+		"UcluKod": "SVN",
+		"UlkeAdi": "Slovenia",
+		"TelKodu": "386",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae76779ec31758d4d052",
+		"UlkeId": 191,
+		"IkiliKod": "SB",
+		"UcluKod": "SLB",
+		"UlkeAdi": "Solomon Islands",
+		"TelKodu": "677",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae76779ec31758d4d053",
+		"UlkeId": 192,
+		"IkiliKod": "SO",
+		"UcluKod": "SOM",
+		"UlkeAdi": "Somalia",
+		"TelKodu": "252",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae76779ec31758d4d054",
+		"UlkeId": 193,
+		"IkiliKod": "ZA",
+		"UcluKod": "ZAF",
+		"UlkeAdi": "South Africa",
+		"TelKodu": "27",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae76779ec31758d4d055",
+		"UlkeId": 194,
+		"IkiliKod": "KR",
+		"UcluKod": "KOR",
+		"UlkeAdi": "South Korea",
+		"TelKodu": "82",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae76779ec31758d4d056",
+		"UlkeId": 195,
+		"IkiliKod": "ES",
+		"UcluKod": "ESP",
+		"UlkeAdi": "Spain",
+		"TelKodu": "34",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae76779ec31758d4d057",
+		"UlkeId": 196,
+		"IkiliKod": "LK",
+		"UcluKod": "LKA",
+		"UlkeAdi": "Sri Lanka",
+		"TelKodu": "94",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae76779ec31758d4d058",
+		"UlkeId": 197,
+		"IkiliKod": "SD",
+		"UcluKod": "SDN",
+		"UlkeAdi": "Sudan",
+		"TelKodu": "249",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae77779ec31758d4d059",
+		"UlkeId": 198,
+		"IkiliKod": "SR",
+		"UcluKod": "SUR",
+		"UlkeAdi": "Suriname",
+		"TelKodu": "597",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae77779ec31758d4d05a",
+		"UlkeId": 199,
+		"IkiliKod": "SZ",
+		"UcluKod": "SWZ",
+		"UlkeAdi": "Swaziland",
+		"TelKodu": "268",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae77779ec31758d4d05b",
+		"UlkeId": 200,
+		"IkiliKod": "SE",
+		"UcluKod": "SWE",
+		"UlkeAdi": "Sweden",
+		"TelKodu": "46",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae77779ec31758d4d05c",
+		"UlkeId": 201,
+		"IkiliKod": "CH",
+		"UcluKod": "CHE",
+		"UlkeAdi": "Switzerland",
+		"TelKodu": "41",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae77779ec31758d4d05d",
+		"UlkeId": 202,
+		"IkiliKod": "SY",
+		"UcluKod": "SYR",
+		"UlkeAdi": "Syria",
+		"TelKodu": "963",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae77779ec31758d4d05e",
+		"UlkeId": 203,
+		"IkiliKod": "TW",
+		"UcluKod": "TWN",
+		"UlkeAdi": "Taiwan",
+		"TelKodu": "886",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae77779ec31758d4d05f",
+		"UlkeId": 204,
+		"IkiliKod": "TJ",
+		"UcluKod": "TJK",
+		"UlkeAdi": "Tajikistan",
+		"TelKodu": "992",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae77779ec31758d4d060",
+		"UlkeId": 205,
+		"IkiliKod": "TZ",
+		"UcluKod": "TZA",
+		"UlkeAdi": "Tanzania",
+		"TelKodu": "255",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae77779ec31758d4d061",
+		"UlkeId": 206,
+		"IkiliKod": "TH",
+		"UcluKod": "THA",
+		"UlkeAdi": "Thailand",
+		"TelKodu": "66",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae77779ec31758d4d062",
+		"UlkeId": 207,
+		"IkiliKod": "TG",
+		"UcluKod": "TGO",
+		"UlkeAdi": "Togo",
+		"TelKodu": "228",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae78779ec31758d4d063",
+		"UlkeId": 208,
+		"IkiliKod": "TK",
+		"UcluKod": "TKL",
+		"UlkeAdi": "Tokelau",
+		"TelKodu": "690",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae78779ec31758d4d064",
+		"UlkeId": 209,
+		"IkiliKod": "TO",
+		"UcluKod": "TON",
+		"UlkeAdi": "Tonga",
+		"TelKodu": "676",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae78779ec31758d4d065",
+		"UlkeId": 210,
+		"IkiliKod": "TT",
+		"UcluKod": "TTO",
+		"UlkeAdi": "Trinidad and Tobago",
+		"TelKodu": "868",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae78779ec31758d4d066",
+		"UlkeId": 211,
+		"IkiliKod": "TN",
+		"UcluKod": "TUN",
+		"UlkeAdi": "Tunisia",
+		"TelKodu": "216",
+		"SiraNo": 100
+	},
+	{
+		"id": "5b26ae78779ec31758d4d068",
+		"UlkeId": 213,
+		"IkiliKod": "TM",
+		"UcluKod": "TKM",
+		"UlkeAdi": "Turkmenistan",
+		"TelKodu": "993",
+		"SiraNo": 100
+	}, {
+		"id": "5b26ae79779ec31758d4d069",
+		"UlkeId": 214,
+		"IkiliKod": "TC",
+		"UcluKod": "TCA",
+		"UlkeAdi": "Turks and Caicos Islands",
+		"TelKodu": "649",
+		"SiraNo": 100
+	}, {
+		"id": "5b26ae79779ec31758d4d06a",
+		"UlkeId": 215,
+		"IkiliKod": "TV",
+		"UcluKod": "TUV",
+		"UlkeAdi": "Tuvalu",
+		"TelKodu": "688",
+		"SiraNo": 100
+	}, {
+		"id": "5b26ae79779ec31758d4d06b",
+		"UlkeId": 216,
+		"IkiliKod": "VI",
+		"UcluKod": "VIR",
+		"UlkeAdi": "U.S. Virgin Islands",
+		"TelKodu": "340",
+		"SiraNo": 100
+	}, {
+		"id": "5b26ae79779ec31758d4d06c",
+		"UlkeId": 217,
+		"IkiliKod": "UG",
+		"UcluKod": "UGA",
+		"UlkeAdi": "Uganda",
+		"TelKodu": "256",
+		"SiraNo": 100
+	}, {
+		"id": "5b26ae79779ec31758d4d06d",
+		"UlkeId": 218,
+		"IkiliKod": "UA",
+		"UcluKod": "UKR",
+		"UlkeAdi": "Ukraine",
+		"TelKodu": "380",
+		"SiraNo": 100
+	}, {
+		"id": "5b26ae79779ec31758d4d06e",
+		"UlkeId": 219,
+		"IkiliKod": "AE",
+		"UcluKod": "ARE",
+		"UlkeAdi": "United Arab Emirates",
+		"TelKodu": "971",
+		"SiraNo": 100
+	}, {
+		"id": "5b26ae79779ec31758d4d06f",
+		"UlkeId": 220,
+		"IkiliKod": "GB",
+		"UcluKod": "GBR",
+		"UlkeAdi": "United Kingdom",
+		"TelKodu": "44",
+		"SiraNo": 100
+	}, {
+		"id": "5b26ae7a779ec31758d4d070",
+		"UlkeId": 221,
+		"IkiliKod": "US",
+		"UcluKod": "USA",
+		"UlkeAdi": "United States",
+		"TelKodu": "1",
+		"SiraNo": 100
+	}, {
+		"id": "5b26ae7a779ec31758d4d071",
+		"UlkeId": 222,
+		"IkiliKod": "UY",
+		"UcluKod": "URY",
+		"UlkeAdi": "Uruguay",
+		"TelKodu": "598",
+		"SiraNo": 100
+	}, {
+		"id": "5b26ae7a779ec31758d4d072",
+		"UlkeId": 223,
+		"IkiliKod": "UZ",
+		"UcluKod": "UZB",
+		"UlkeAdi": "Uzbekistan",
+		"TelKodu": "998",
+		"SiraNo": 100
+	}, {
+		"id": "5b26ae7a779ec31758d4d073",
+		"UlkeId": 224,
+		"IkiliKod": "VU",
+		"UcluKod": "VUT",
+		"UlkeAdi": "Vanuatu",
+		"TelKodu": "678",
+		"SiraNo": 100
+	}, {
+		"id": "5b26ae7a779ec31758d4d074",
+		"UlkeId": 225,
+		"IkiliKod": "VA",
+		"UcluKod": "VAT",
+		"UlkeAdi": "Vatican City",
+		"TelKodu": "39",
+		"SiraNo": 100
+	}, {
+		"id": "5b26ae7a779ec31758d4d075",
+		"UlkeId": 226,
+		"IkiliKod": "VE",
+		"UcluKod": "VEN",
+		"UlkeAdi": "Venezuela",
+		"TelKodu": "58",
+		"SiraNo": 100
+	}, {
+		"id": "5b26ae7b779ec31758d4d076",
+		"UlkeId": 227,
+		"IkiliKod": "VN",
+		"UcluKod": "VNM",
+		"UlkeAdi": "Vietnam",
+		"TelKodu": "84",
+		"SiraNo": 100
+	}, {
+		"id": "5b26ae7b779ec31758d4d077",
+		"UlkeId": 228,
+		"IkiliKod": "WF",
+		"UcluKod": "WLF",
+		"UlkeAdi": "Wallis and Futuna",
+		"TelKodu": "681",
+		"SiraNo": 100
+	}, {
+		"id": "5b26ae7b779ec31758d4d078",
+		"UlkeId": 229,
+		"IkiliKod": "YE",
+		"UcluKod": "YEM",
+		"UlkeAdi": "Yemen",
+		"TelKodu": "967",
+		"SiraNo": 100
+	}, {
+		"id": "5b26ae7b779ec31758d4d079",
+		"UlkeId": 230,
+		"IkiliKod": "ZM",
+		"UcluKod": "ZMB",
+		"UlkeAdi": "Zambia",
+		"TelKodu": "260",
+		"SiraNo": 100
+	}, {
+		"id": "5b26ae7b779ec31758d4d07a",
+		"UlkeId": 231,
+		"IkiliKod": "ZW",
+		"UcluKod": "ZWE",
+		"UlkeAdi": "Zimbabwe",
+		"TelKodu": "263",
+		"SiraNo": 100
+	}, {
+		"id": "5b26ae7b779ec31758d4d07b",
+		"UlkeId": 232,
+		"IkiliKod": "CY",
+		"UcluKod": "CYP",
+		"UlkeAdi": "KIBRIS",
+		"TelKodu": "357",
+		"SiraNo": 100
+	}
+]

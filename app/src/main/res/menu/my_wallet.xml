@@ -1,0 +1,11 @@
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/import_wallet"
+        android:title="@string/wallet_import" />
+
+    <item android:id="@+id/export_wallet"
+        android:title="@string/wallet_export" />
+
+    <item android:id="@+id/refresh"
+        android:title="@string/refresh_wallet" />
+</menu>

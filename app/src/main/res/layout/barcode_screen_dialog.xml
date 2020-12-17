@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:background="#ffffffff">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:text="OK"
+        android:id="@+id/btn_dialog"
+        android:scaleType="fitCenter"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_below="@+id/read_pvt_key"
+        android:background="@color/sikke_custom_color"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/white" />
+
+
+    <SurfaceView
+        android:id="@+id/read_pvt_key"
+        android:layout_width="wrap_content"
+        android:layout_height="270dp">
+    </SurfaceView>
+
+
+</RelativeLayout>

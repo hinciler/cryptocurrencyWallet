@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "372080303592",
+    "firebase_url": "https://sikke-f1cba.firebaseio.com",
+    "project_id": "sikke-f1cba",
+    "storage_bucket": "sikke-f1cba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372080303592:android:f73bd0ce4b9f174c",
+        "android_client_info": {
+          "package_name": "com.sikke.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372080303592-ll6103dn0fjssq9h3nul4ulpbiajnl2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqbxVULLsdTNyNF6BW43K-bWtQDuE4zy8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

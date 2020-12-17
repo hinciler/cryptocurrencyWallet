@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:scaleType = "fitXY"
+    android:gravity="center_vertical"
+    tools:context="com.sikke.app.activities.AccountActivity">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="651dp"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp">
+
+        <ImageView
+            android:id="@+id/img_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="120dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="50dp"
+            android:src="@drawable/logo2" />
+
+        <LinearLayout
+            android:id="@+id/layout_btn"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center|bottom"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/btn_open_login"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:background="@drawable/button_file"
+                android:padding="12dp"
+                android:text="@string/login"
+                android:textAppearance="@style/TextAppearance.FontPath"
+                android:textColor="#ffffff"
+                android:textSize="16dp" />
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/btn_create"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/button_file"
+                android:padding="12dp"
+                android:text="@string/create_account"
+                android:textAppearance="@style/TextAppearance.FontPath"
+                android:textColor="#ffffff"
+                android:textSize="16dp" />
+
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/btn_rd_qr"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/button_file"
+                android:padding="12dp"
+                android:text="@string/read_wallet_qr_code"
+                android:textAppearance="@style/TextAppearance.FontPath"
+                android:textColor="#ffffff"
+                android:textSize="16dp" />
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/btn_create_wallet"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/button_file"
+                android:padding="12dp"
+                android:text="@string/create_wallet"
+                android:textAppearance="@style/TextAppearance.FontPath"
+                android:textColor="#ffffff"
+                android:textSize="16dp" />
+
+            <TextView
+                android:id="@+id/txt_web"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:autoLink="web"
+                android:text="www.sikke.com.tr"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.FontPath"
+                android:textColor="#FFFFFF"
+                android:textColorLink="#FFFFFF" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

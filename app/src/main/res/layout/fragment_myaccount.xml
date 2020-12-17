@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:id="@+id/layout_container"
+        android:layout_width="match_parent"
+        android:padding="15dp"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/img_logo"
+        android:orientation="vertical">
+        <!--  Email Label -->
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout"
+            android:layout_marginBottom="8dp">
+            <EditText android:id="@+id/input_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:inputType="textFilter"
+                android:textAppearance="@style/TextAppearance.FontPath"
+                android:hint="@string/pref_default_display_name" />
+        </android.support.design.widget.TextInputLayout>
+
+        <!--  Password Label -->
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout"
+            android:layout_marginBottom="8dp">
+            <EditText android:id="@+id/input_surname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textFilter"
+                android:textSize="20sp"
+                android:textCursorDrawable="@drawable/cursor_color"
+                android:textAppearance="@style/TextAppearance.FontPath"
+                android:hint="@string/pref_default_display_surname"/>
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout"
+            android:layout_marginBottom="8dp">
+            <EditText android:id="@+id/input_nickname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textFilter"
+                android:textSize="20sp"
+                android:maxLength="50"
+                android:textCursorDrawable="@drawable/cursor_color"
+                android:textAppearance="@style/TextAppearance.FontPath"
+                android:hint="@string/pref_title_display_nickname"/>
+        </android.support.design.widget.TextInputLayout>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="8dp"
+            android:textSize="16sp"
+            android:text="@string/pref_title_country"
+            android:layout_marginBottom="5dp" />
+
+        <Spinner
+            android:id="@+id/spinner_countries"
+            android:layout_width="match_parent"
+            android:scrollbarSize="20sp"
+            android:layout_height="match_parent"
+            android:prompt="@string/spinner_country"
+            android:spinnerMode="dropdown"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="8dp"
+            android:baselineAligned="false">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_margin="2dp"
+                android:gravity="left">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="8dp"
+                    android:textSize="16sp"
+                    android:text="@string/pref_title_mobile_code"
+                    android:layout_marginBottom="5dp" />
+
+                <Spinner
+                    android:id="@+id/spinner_country_code"
+                    android:layout_width="match_parent"
+                    android:scrollbarSize="20sp"
+                    android:layout_height="match_parent"
+                    android:prompt="@string/spinner_country"
+                    android:spinnerMode="dropdown"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_margin="2dp"
+                android:gravity="right|center">
+
+                <android.support.design.widget.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout"
+                    android:layout_marginBottom="8dp">
+                    <EditText android:id="@+id/input_phone"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:inputType="phone"
+                        android:textSize="20sp"
+                        android:textCursorDrawable="@drawable/cursor_color"
+                        android:textAppearance="@style/TextAppearance.FontPath"
+                        android:hint="@string/pref_phone_number"/>
+                </android.support.design.widget.TextInputLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:baselineAligned="false"
+            android:layout_marginTop="5dp">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="left">
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center">
+
+                <com.wang.avi.AVLoadingIndicatorView
+                    android:id="@+id/avloadingIndicatorView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    app:indicatorColor="@color/sikke_custom_color"
+                    app:indicatorName="BallPulseIndicator" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="end">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/btn_save"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textAppearance="@style/TextAppearance.FontPath"
+                    android:textColor="@color/white"
+                    android:background="@drawable/button_file"
+                    android:padding="10dp"
+                    android:text="@string/save" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

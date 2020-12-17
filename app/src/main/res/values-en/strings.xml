@@ -1,0 +1,222 @@
+<resources>
+    <string name="app_name">Sikke Wallet</string>
+    <string name="login">"Login"</string>
+    <string name="create_account">"Create Account"</string>
+    <string name="read_wallet_qr_code">"Login With Wallet"</string>
+    <string name="create_wallet">"Create Wallet"</string>
+	<string name="create_wallet_hidden">"Create Secret Wallet"</string>
+    <string name="email">"E-Mail"</string>
+    <string name="password">"Password"</string>
+    <string name="forgotPasword">"Forgot Password"</string>
+    <string name="goBack">"Go Back"</string>
+    <string name="qrCode">"QR Code"</string>
+    <string name="read">"Oku"</string>
+    <string name="reset">"Reset"</string>
+    <string name="myAccount">"My Account"</string>
+    <string name="qr">"QR"</string>
+    <string name="reload">"Reload"</string>
+    <string name="request">"Request"</string>
+    <string name="requestCap">"REQUEST"</string>
+    <string name="send">"Send"</string>
+    <string name="sendCap">"SEND"</string>
+    <string name="cancel">"Cancel"</string>
+    <string name="cancelCap">"CANCEL"</string>
+    <string name="settings">"Settings"</string>
+    <string name="share">"Share"</string>
+    <string name="amount">"Amount"</string>
+    <string name="fee">"Fee"</string>
+    <string name="total">"Total"</string>
+    <string name="description">"Description"</string>
+    <string name="wallet_number">"Wallet Number"</string>
+    <string name="date">"Date"</string>
+    <string name="wrongPassword">"Please Check Password E-mail And Try Again"</string>
+    <string name="exit_confirmation">"Are you sure you want to close app?"</string>
+    <string name="change_language">Language preferences has been changed</string>
+    <string name="warning">"Warning"</string>
+    <string name="yes">"Yes"</string>
+    <string name="no">"No"</string>
+    <string name="server_is_not_responding_please_try_again">"The Sikke Network is undergoing maintenance! Please try again later ..."</string>
+    <string name="login_error">"Login Error"</string>
+    <string name="reset_password_error">"Reset Password Error"</string>
+    <string name="create_account_error">"Create Account Error"</string>
+    <string name="enter_valid_email">"Please Enter Valid E-mail"</string>
+    <string name="enter_valid_password">"Please Enter Valid Password"</string>
+    <string name="public_number">Public Number</string>
+    <string name="private_number">Private Number</string>
+    <string name="backup">Backup</string>
+    <string name="myAccountInformation">My Account Information</string>
+    <string name="changePassword">Change Password</string>
+    <string name="accountSecurity">Account Security</string>
+    <string name="language">Languages</string>
+    <string name="title_activity_account_settings">Account Settings</string>
+    <string name="pref_title_display_name">Name</string>
+    <string name="pref_title_display_surname">Surname</string>
+    <string name="pref_title_display_nickname">Nickname</string>
+    <string name="pref_title_country">Country</string>
+	<string name="pref_title_mobile_number">Mobil Phone</string>
+    <string name="pref_title_mobile_code">Country Code</string>
+    <string name="pref_title_timezone">Your Timezone</string>
+    <string name="pref_title_password">Change Password</string>
+	<string name="pref_title_tcno">Kimlik/Pasaport No</string>
+    <string name="pref_title_secret_question">Security Question</string>
+    <string name="pref_title_secret_answer">Security Answer</string>
+    <string name="send_wallet_number">To</string>
+    <string name="input_pincode">Please Enter Your Pin code</string>
+    <string name="confirm_pincode">Confirm Pin code</string>
+    <string name="create_pincode">Create Pin code</string>
+    <string name="no_wallet">You Don\'t Have Wallets!</string>
+    <string name="pincode_warning">{faw-exclamation-triangle} For your account security you have to create a pin code that will be used to encrypt your personal data.</string>
+    <string name="pincode_warning_list_1">-It is crucial to save the created pin code in an offline computer or on a paper which is only accesible to you.</string>
+    <string name="pincode_warning_list_2">-In case of a pin code loss  access to your account will be limited.</string>
+    <string name="pvt_warning_list">You can create your wallet by the button below.</string>
+    <string name="pvt_warning_list_1">{faw-lightbulb} The “Public Key”-“Private Key” pair you will get during this process is of crucial importance to use your account.</string>
+    <string name="pvt_again_warning_list_1">-The “Public Key”-“Private Key” pair you will get during this process is of crucial importance to use your account.</string>
+    <string name="pvt_warning_list_2">{faw-lightbulb} Your “Private Key” is not saved in any form by us.</string>
+    <string name="pvt_warning_list_3">{faw-lightbulb} In case of a loss of private key, your assets will be unrecoverably lost. We are unable to recover your account.</string>
+    <string name="pvt_show_qr">SHOW QR</string>
+    <string name="pvt_show_txt">SHOW KEYS</string>
+    <string name="pvt_save_wallet">SAVE WALLET</string>
+    <string name="pvt_go_wallet">GO WALLET</string>
+    <string name="is_hidden">Hide this transaction on network</string>
+    <string name="hidden_desc">This Transaction Is Hidden</string>
+    <string name="wallet_general_setting">Setting</string>
+    <string name="wallet_security_setting">Security</string>
+    <string name="wallet_developer">Developer</string>
+    <string name="wallet_name">Wallet Name</string>
+    <string name="wallet_type">Wallet Type</string>
+    <string name="wallet_standard">Standart (In/Out) Wallet</string>
+    <string name="wallet_only_in">Only Out Wallet</string>
+    <string name="wallet_only_out">Only In Wallet</string>
+    <string name="wallet_partner">Partner Wallet</string>
+    <string name="wallet_smart">Smart Wallet</string>
+    <string name="wallet_smart_contract_token">Smart Contract Token</string>
+    <string name="wallet_create_date">Create Date</string>
+    <string name="save">Save</string>
+    <string name="wallet_situation">Wallet Status</string>
+    <string name="wallet_notifications">Notifications</string>
+    <string name="wallet_hourly_limit">Wallet hourly limit</string>
+    <string name="wallet_daily_limit">Wallet daily limit</string>
+    <string name="wallet_one_time_limit">Per transaction limit</string>
+    <string name="open_usage">Use ON</string>
+    <string name="cloase_usage">Use OFF</string>
+    <string name="notifications_closed">Notification ON</string>
+    <string name="notifications_opened">Notification OFF</string>
+    <string name="callback_url">Callback URL</string>
+    <string name="wallet_saved">Wallet info updated...</string>
+    <string name="user_saved">User info updated......</string>
+    <string name="wallet_name_hint">Like White Cafe or Your Name Surname</string>
+
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="request_sikke">Request Payment</string>
+    <string name="send_sikke">Send Payment</string>
+    <string name="wallet_preferences">Wallet Preferences</string>
+    <string name="nav_home">My Wallets</string>
+    <string name="nav_create_wallet">Create Wallet</string>
+    <string name="nav_import_wallet">Import Wallet</string>
+    <string name="nav_export_wallet">Export Wallet</string>
+    <string name="nav_contacts">My Contacts</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_about_us">About Us</string>
+    <string name="nav_title">Acoount Settings</string>
+    <string name="nav_title_other">Other</string>
+    <string name="nav_help">Help</string>
+    <string name="nav_exit">Logout</string>
+	<string name="sikke_url">sikke.com.tr</string>
+    <string name="parifix_url">parifix.com</string>
+
+	
+	<!-- Toolbar titles when navigation menu country_item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>My Wallets</item>
+        <item>Create Wallet</item>
+        <item>Wallet Import</item>
+        <item>Wallet Export</item>
+        <item>Settings</item>
+    </string-array>
+
+
+    <!-- Variables -->
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+    <string name="backup_confirm">backup_confirm</string>
+
+    <!-- Strings related to Settings -->
+    <string name="pref_default_display_name">Your Name</string>
+    <string name="pref_default_display_surname">Your Surname</string>
+    <string name="pref_phone_number">Phone Number</string>
+    <string name="pref_language">Language Preferences</string>
+    <string name="pref_old_password">Old Password</string>
+    <string name="pref_password">New Password</string>
+    <string name="pref_confirm_password">New Password (Again)</string>
+    <string name="pref_security_title">Security Question</string>
+    <string name="pref_security_question">Write A Question</string>
+    <string name="pref_security_answer">Answer Your Question</string>
+    <string name="pref_tc"> Idendity Number</string>
+    <string name="pref_indetity_title"> Idendity Information</string>
+    <string-array name="pref_language_list_titles">
+        <item>Türkçe</item>
+        <item>English</item>
+    </string-array>
+    <string-array name="pref_language_list_values">
+        <item>tr</item>
+        <item>en</item>
+    </string-array>
+
+
+
+    <!-- Strings related to Toast Messages -->
+    <string name="wallet_info">Wallet Info</string>
+    <string name="wallet_deleted">Wallet Deleted</string>
+    <string name="share_wallet">Share Wallet Number</string>
+    <string name="transactions_updated">Transactions updated</string>
+    <string name="congratulations_wallet">Congratulations! Your wallet was created</string>
+    <string name="congratulations_backup">Congratulations! Your back up file was created.</string>
+    <string name="copied">Copied</string>
+    <string name="share_private">Share Private Key info</string>
+    <string name="no_wallet_warning">You don’t have a wallet yet. Click button below to create a wallet</string>
+    <string name="server_error">Server isn’t responding, please log out and try again</string>
+    <string name="skk_request">SKK is being requested</string>
+    <string name="share_to_request">Share to request SKK</string>
+    <string name="please_wait">Please wait..</string>
+    <string name="sending_process">Sending process is being finalized</string>
+    <string name="congratulations_sent">Congratulations! It is sent </string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="your_payment">Your payment is successfully sent. Tx No: </string>
+    <string name="private_key_error">Private key error!</string>
+    <string name="no_private_key_error">You need to install private key for this wallet. Please enter a private key</string>
+    <string name="my_wallet_info">Below you can see your Sikke accounts linked to your wallet…</string>
+
+
+    <!-- Strings related to Sweet Alert Dialog Box -->
+    <string name="group_id">Tx Group:</string>
+    <string name="seq">Tx Number:</string>
+    <string name="from">From:</string>
+    <string name="to">To:</string>
+    <string name="total_amount">Amount:</string>
+    <string name="desc">Description:</string>
+    <string name="action_time">Action Time:</string>
+    <string name="complete_time">Complete Time:</string>
+    <string name="hash">Hash:</string>
+    <string name="prev_hash">Previous Hash:</string>
+    <string name="tx_details">Transaction Details</string>
+    <string name="ask_confirmation">Are You Sure To Delete Wallet?</string>
+    <string name="confirmation_detail">If You Belong Your Wallet\'s Private Key You Can Import Later.</string>
+    <string name="deleted_wallet">Your Wallet Is Deleted</string>
+
+    <!-- Strings related to Create Options Menu -->
+    <string name="wallet_import">Import Wallet</string>
+    <string name="wallet_export">Export Wallet</string>
+    <string name="refresh_wallet">Refresh</string>
+
+    <!-- Strings related to Wallet Options Menu -->
+    <string name="copy_wallet">Copy Wallet</string>
+    <string name="send_wallet">Send</string>
+    <string name="tx_history">Transaction History</string>
+    <string name="delete_wallet">Delete Wallet</string>
+
+
+
+
+
+</resources>

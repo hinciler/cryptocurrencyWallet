@@ -1,0 +1,60 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- NOTE: EditTextPreference accepts EditText attributes. -->
+    <!-- NOTE: EditTextPreference's summary should be set to its value by the activity code. -->
+    <EditTextPreference
+        android:id="@+id/pref_name"
+        android:capitalize="words"
+        android:defaultValue="@string/pref_default_display_name"
+        android:inputType="textCapWords"
+        android:key="display_name"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_display_name" />
+
+    <EditTextPreference
+        android:id="@+id/pref_surname"
+        android:capitalize="words"
+        android:defaultValue="@string/pref_default_display_name"
+        android:inputType="textCapWords"
+        android:key="display_surname"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_display_surname" />
+
+    <EditTextPreference
+        android:id="@+id/pref_nickname"
+        android:capitalize="words"
+        android:defaultValue="@string/pref_default_display_name"
+        android:inputType="textCapWords"
+        android:key="nickname"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_display_nickname" />
+
+    <ListPreference
+        android:id="@+id/pref_country"
+        android:defaultValue="1"
+        android:entries="@array/pref_language_list_titles"
+        android:entryValues="@array/pref_language_list_values"
+        android:key="country"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null"
+        android:title="@string/pref_title_country" />
+
+    <ListPreference
+        android:id="@+id/pref_timezone"
+        android:defaultValue="1"
+        android:entries="@array/pref_language_list_titles"
+        android:entryValues="@array/pref_language_list_values"
+        android:key="timezone"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null"
+        android:title="@string/pref_title_timezone" />
+
+
+</PreferenceScreen>

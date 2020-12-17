@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/second_grey"
+    android:id="@+id/sendSikkeScrollView"
+    tools:context=".fragments.SendSikkeFragment"
+    tools:ignore="MissingPrefix">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="15dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:text="@string/wallet_name"
+                android:textSize="14sp"
+                android:textColor="@color/customColorGrayDark2x" />
+
+            <EditText
+                android:id="@+id/txt_wallet_name"
+                android:background="@drawable/edit_text_background"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:padding="10dp"
+                android:textColor="#444444"
+                android:textSize="16sp"
+                android:maxLength="20"
+                android:textColorHint="@color/customColorGray"
+                android:hint="@string/wallet_name_hint"
+                android:singleLine="true"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:text="@string/wallet_type"
+                android:textSize="14sp"
+                android:layout_marginTop="15dp"
+                android:textColor="@color/customColorGrayDark2x" />
+
+            <RadioGroup
+                android:id="@+id/radio_type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <RadioButton
+                    android:id="@+id/radio_wallet_standard"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/wallet_standard"
+                    android:textColor="#444444"/>
+
+                <RadioButton
+                    android:id="@+id/radio_wallet_moneybox"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#444444"
+                    android:text="@string/wallet_only_in" />
+
+                <RadioButton
+                    android:id="@+id/radio_wallet_free"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#444444"
+                    android:text="@string/wallet_only_out" />
+
+
+            </RadioGroup>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:text="@string/wallet_smart_contract_token"
+                android:textSize="14sp"
+                android:textColor="@color/customColorGrayDark2x" />
+
+            <TextView
+                android:id="@+id/txt_wallet_smart_contract_token"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:text="-"
+                android:textSize="14sp"
+                android:textColor="#444444" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:text="@string/wallet_create_date"
+                android:textSize="14sp"
+                android:textColor="@color/customColorGrayDark2x" />
+
+            <TextView
+                android:id="@+id/txt_wallet_create_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:text="13.4.2018 11:17:00"
+                android:textSize="14sp"
+                android:textColor="#444444" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:baselineAligned="false"
+                android:layout_marginTop="5dp">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="end">
+
+                    <android.support.v7.widget.AppCompatButton
+                        android:id="@+id/btn_save"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:textAppearance="@style/TextAppearance.FontPath"
+                        android:textColor="@color/white"
+                        android:background="@drawable/button_file"
+                        android:padding="10dp"
+                        android:text="@string/save" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+    </LinearLayout>
+
+        <com.wang.avi.AVLoadingIndicatorView
+            android:id="@+id/avloadingIndicatorView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            app:indicatorColor="@color/sikke_custom_color"
+            app:indicatorName="BallPulseIndicator" />
+
+    </RelativeLayout>
+
+
+
+</ScrollView>

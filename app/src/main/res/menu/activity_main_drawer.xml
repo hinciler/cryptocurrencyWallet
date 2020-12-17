@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:aandroid="http://schemas.android.com/tools">
+
+    <group android:id="@+id/main_menu"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_account_balance_wallet_black_24dp"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/nav_create_wallet"
+            android:icon="@drawable/ic_add_circle_outline_black_24dp"
+            android:title="@string/nav_create_wallet" />
+        <item
+            android:id="@+id/nav_import_wallet"
+            android:icon="@drawable/ic_input_black_24dp"
+            android:title="@string/nav_import_wallet" />
+
+        <item
+            android:id="@+id/nav_contacts"
+            android:icon="@drawable/ic_contacts_black_24dp"
+            android:title="@string/nav_contacts" />
+
+    </group>
+
+
+    <group android:id="@string/nav_title_other">
+
+            <item
+                android:id="@+id/nav_my_account"
+                android:icon="@drawable/ic_person_black_24dp"
+                android:title="@string/myAccountInformation" />
+
+            <item
+                android:id="@+id/nav_exit"
+                android:title="@string/nav_exit" />
+
+    </group>
+
+    <group android:id="@+id/nav_footer">
+
+        <item
+            android:id="@+id/nav_help"
+            android:title="@string/nav_help" />
+
+        <item
+            android:id="@+id/nav_sikke"
+            android:title="@string/sikke_url" />
+
+        <item
+            android:id="@+id/nav_parifix"
+            android:title="@string/parifix_url" />
+
+    </group>
+
+    <group>
+        <item
+            android:id="@+id/nav_version"
+            android:title="@string/parifix_url" />
+    </group>
+
+</menu>

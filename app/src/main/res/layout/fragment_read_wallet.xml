@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/read_wallet_fragment"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bg"
+    tools:context=".fragments.ReadWalletFragment">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="15dp"
+        android:paddingLeft="24dp"
+        android:paddingRight="24dp">
+
+        <SurfaceView
+            android:id="@+id/rd_key"
+            android:layout_width="match_parent"
+            android:layout_height="270dp">
+        </SurfaceView>
+
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="#FFFFFF"
+            android:layout_marginTop="8dp"
+            app:hintTextAppearance="@style/TextAppearance.App.TextInputLayout"
+            android:layout_marginBottom="8dp">
+            <EditText android:id="@+id/input_qr_code"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#FFFFFF"
+                android:inputType="textFilter"
+                android:textSize="20sp"
+                android:textCursorDrawable="@drawable/cursor_color"
+                android:textAppearance="@style/TextAppearance.FontPath"
+                android:theme="@style/LightEditText"
+                android:hint="@string/private_number"/>
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/btn_import_wallet"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="14dp"
+            android:layout_marginBottom="14dp"
+            android:textAppearance="@style/TextAppearance.FontPath"
+            android:textColor="@color/customColorWhite"
+            android:background="@drawable/button_file"
+            android:padding="12dp"
+            android:text="@string/save"/>
+
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="50dp"
+                android:layout_marginBottom="10dp">
+                <ImageView
+                    android:layout_width="13dp"
+                    android:layout_height="13dp"
+                    android:layout_marginTop="3dp"
+                    android:layout_marginLeft="-6dp"
+                    android:rotation="-90"
+                    android:src="@drawable/shape_triangle" />
+                <TextView
+                    android:id="@+id/txt_goBack"
+                    android:layout_width="125dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginStart="17dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="37dp"
+                    android:textColor="@color/customColorWhite"
+                    android:clickable="true"
+                    android:text="@string/goBack" />
+            </RelativeLayout>
+
+    </LinearLayout>
+
+</ScrollView>

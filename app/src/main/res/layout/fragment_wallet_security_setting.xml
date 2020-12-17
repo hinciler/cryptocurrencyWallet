@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/second_grey"
+    android:id="@+id/sendSikkeScrollView"
+    tools:context=".fragments.SendSikkeFragment"
+    tools:ignore="MissingPrefix">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/security_setting_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="15dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/wallet_situation"
+            android:textSize="14sp"
+            android:textColor="@color/customColorGrayDark2x" />
+
+        <RadioGroup
+            android:id="@+id/radio_situation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/radio_active"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/open_usage"
+                android:textColor="#444444"/>
+
+            <RadioButton
+                android:id="@+id/radio_passive"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#444444"
+                android:text="@string/cloase_usage" />
+
+        </RadioGroup>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/wallet_notifications"
+            android:textSize="14sp"
+            android:layout_marginTop="15dp"
+            android:textColor="@color/customColorGrayDark2x" />
+
+        <RadioGroup
+            android:id="@+id/radio_notifications"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <RadioButton
+                android:id="@+id/radio_open"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#444444"
+                android:text="@string/notifications_opened" />
+
+            <RadioButton
+                android:id="@+id/radio_close"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/notifications_closed"
+                android:textColor="#444444"/>
+
+        </RadioGroup>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/wallet_hourly_limit"
+            android:textSize="14sp"
+            android:textColor="@color/customColorGrayDark2x" />
+
+        <EditText
+            android:id="@+id/wallet_hourly_limit"
+            android:background="@drawable/edit_text_background"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:layout_width="match_parent"
+            android:padding="10dp"
+            android:textColor="#444444"
+            android:textSize="16sp"
+            android:maxLength="20"
+            android:textColorHint="@color/customColorGray"
+            android:hint="0"
+            android:singleLine="true"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/wallet_daily_limit"
+            android:textSize="14sp"
+            android:textColor="@color/customColorGrayDark2x" />
+
+        <EditText
+            android:id="@+id/wallet_daily_limit"
+            android:background="@drawable/edit_text_background"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:padding="10dp"
+            android:inputType="number"
+            android:textColor="#444444"
+            android:textSize="16sp"
+            android:maxLength="20"
+            android:textColorHint="@color/customColorGray"
+            android:hint="0"
+            android:singleLine="true"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="@string/wallet_one_time_limit"
+            android:textSize="14sp"
+            android:textColor="@color/customColorGrayDark2x" />
+
+        <EditText
+            android:id="@+id/wallet_one_time_limit"
+            android:background="@drawable/edit_text_background"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:padding="10dp"
+            android:textColor="#444444"
+            android:textSize="16sp"
+            android:inputType="number"
+            android:maxLength="20"
+            android:textColorHint="@color/customColorGray"
+            android:hint="0"
+            android:singleLine="true"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:baselineAligned="false"
+            android:layout_marginTop="5dp">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="left">
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center">
+
+                <com.wang.avi.AVLoadingIndicatorView
+                    android:id="@+id/avloadingIndicatorView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    app:indicatorColor="@color/sikke_custom_color"
+                    app:indicatorName="BallPulseIndicator" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="end">
+
+                <android.support.v7.widget.AppCompatButton
+                    android:id="@+id/btn_save"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textAppearance="@style/TextAppearance.FontPath"
+                    android:textColor="@color/white"
+                    android:background="@drawable/button_file"
+                    android:padding="10dp"
+                    android:text="@string/save" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    </RelativeLayout>
+
+</ScrollView>

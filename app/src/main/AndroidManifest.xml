@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.sikke.app">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:icon">
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="${applicationId}.provider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/provider_paths"/>
+        </provider>
+
+        <activity
+            android:name=".activities.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/sikkeNoAction">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.AccountActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/sikkeNoAction" />
+        <activity android:name=".BaseActivity" />
+        <activity
+            android:name=".activities.AccountWrapperActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/sikkeNoAction" />
+        <activity
+            android:name=".activities.AccountSettingsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.PinCodeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/sikkeNoAction" />
+        <activity
+            android:name=".activities.LaunchActivity"
+            android:launchMode="singleTask"
+            android:theme="@android:style/Theme.NoDisplay"
+            android:windowSoftInputMode="stateHidden"
+            tools:ignore="ExtraText">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter> />
+        </activity>
+        <activity android:name=".activities.WebviewActivity" />
+        <receiver android:name=".receivers.MyScheduledReceiver" />
+    </application>
+
+</manifest>

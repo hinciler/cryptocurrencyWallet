@@ -1,0 +1,73 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primary_dark_material_dark_1</item>
+        <item name="colorPrimaryDark">@color/primary_dark_material_dark_1</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorButtonNormal">@color/colorPrimary</item>
+
+    </style>
+
+    <style name="TextAppearance.FontPath" parent="android:TextAppearance">
+        <!-- Custom Attr-->
+        <item name="fontPath">fonts/Saira-Regular.ttf</item>
+    </style>
+
+    <style name="LightEditText" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorControlNormal">@color/customColorWhite</item>
+        <item name="colorControlActivated">@color/sikke_custom_color</item>
+        <item name="colorControlHighlight">@color/sikke_custom_color</item>
+    </style>
+
+    <style name="TextAppearance.App.TextInputLayout" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/sikke_custom_dark_color</item>
+    </style>
+
+    <style name="TextAppearance.AppCompat.Body1." parent="android:TextAppearance">
+        <item name="fontPath">fonts/OpenSans-Regular.ttf</item>
+    </style>
+
+    <style name="sikkeNoAction" parent="Theme.AppCompat.NoActionBar" >
+        <item name="colorPrimaryDark">#10122d</item>
+        <item name="colorPrimary">#10122d</item>
+        <item name="colorButtonNormal">@color/customColorWhite</item>
+    </style>
+
+    <style name="Widget.Design.TextInputLayout" parent="AppTheme">
+        <item name="hintTextAppearance">@style/AppTheme.TextFloatLabelAppearance</item>
+        <item name="errorTextAppearance">@style/AppTheme.TextErrorAppearance</item>
+        <item name="counterTextAppearance">@style/TextAppearance.Design.Counter</item>
+        <item name="counterOverflowTextAppearance">@style/TextAppearance.Design.Counter.Overflow</item>
+    </style>
+
+    <style name="AppTheme.TextFloatLabelAppearance" parent="TextAppearance.Design.Hint">
+        <!-- Floating label appearance here -->
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="AppTheme.TextErrorAppearance" parent="TextAppearance.Design.Error">
+        <!-- Error message appearance here -->
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="MyHintAppearance" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">?attr/colorPrimary</item>
+    </style>
+
+    <style name="ButtonGray">
+        <item name="colorButtonNormal">#000000</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <style name="MyTabLayoutTextAppearance" parent="TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>
